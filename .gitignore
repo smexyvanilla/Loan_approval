@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+logs/
+catboost_info/
+.vscode/
+*.egg-info/
