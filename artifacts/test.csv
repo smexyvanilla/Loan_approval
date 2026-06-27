@@ -1,0 +1,1201 @@
+age,gender,marital_status,dependents,education,employment_type,city_tier,residence_type,monthly_income,cibil_score,existing_loans_count,credit_history_length_years,bank_balance,loan_amount,loan_term_months,loan_purpose,debt_to_income_ratio,loan_approved
+43,Female,Single,1,Not Graduate,Salaried,Tier 2,Rented,92000,710,0,12.3,480000,181000,24,Vehicle,0.093,Approved
+23,Female,Single,3,Not Graduate,Self-Employed,Tier 1,Owned,129000,661,0,1.4,565000,251000,36,Home Renovation,0.065,Approved
+34,Male,Married,0,Graduate,Salaried,Tier 3,Owned,23000,649,0,10.7,43000,124000,84,Debt Consolidation,0.095,Approved
+43,Male,Single,1,Graduate,Self-Employed,Tier 2,Owned,34000,715,2,7.8,104000,157000,120,Medical,0.066,Approved
+38,Female,Single,2,Not Graduate,Salaried,Tier 3,Owned,51000,748,1,5.6,168000,86000,48,Debt Consolidation,0.044,Approved
+21,Male,Married,1,Graduate,Salaried,Tier 3,Owned,13000,620,0,0.0,68000,159000,60,Education,0.272,Rejected
+40,Male,Single,0,Graduate,Salaried,Tier 3,Rented,16000,711,1,16.5,79000,175000,24,Education,0.515,Rejected
+44,Male,Married,2,Graduate,Self-Employed,Tier 3,Rented,28000,636,2,18.4,140000,145000,48,Medical,0.136,Approved
+38,Male,Single,3,Not Graduate,Salaried,Tier 2,Owned,24000,596,2,15.0,45000,223000,48,Medical,0.245,Rejected
+21,Female,Married,3,Graduate,Business Owner,Tier 1,Owned,105000,663,3,0.0,605000,96000,24,Wedding,0.043,Approved
+27,Male,Single,2,Graduate,Self-Employed,Tier 2,Living with Parents,62000,691,0,5.0,91000,298000,84,Business Expansion,0.085,Rejected
+33,Male,Married,1,Graduate,Self-Employed,Tier 1,Rented,37000,645,4,6.4,155000,269000,60,Wedding,0.162,Rejected
+34,Male,Married,1,Graduate,Business Owner,Tier 1,Owned,60000,619,1,8.6,296000,269000,240,Debt Consolidation,0.049,Approved
+40,Male,Married,1,Not Graduate,Salaried,Tier 3,Owned,25000,664,0,8.4,83000,268000,60,Travel,0.238,Approved
+57,Female,Married,1,Not Graduate,Salaried,Tier 3,Owned,17000,761,2,16.9,28000,229000,120,Travel,0.193,Approved
+35,Male,Married,0,Not Graduate,Salaried,Tier 1,Owned,41000,728,0,7.1,44000,213000,60,Debt Consolidation,0.116,Approved
+43,Female,Single,0,Graduate,Salaried,Tier 3,Owned,17000,696,2,7.8,97000,274000,180,Wedding,0.193,Approved
+41,Female,Single,0,Graduate,Self-Employed,Tier 2,Living with Parents,36000,669,0,14.9,160000,392000,120,Debt Consolidation,0.156,Rejected
+34,Male,Married,2,Graduate,Salaried,Tier 2,Living with Parents,35000,728,1,7.7,44000,176000,120,Debt Consolidation,0.072,Approved
+21,Female,Married,3,Graduate,Business Owner,Tier 1,Living with Parents,37000,595,0,0.0,201000,140000,60,Education,0.084,Approved
+36,Male,Single,1,Not Graduate,Salaried,Tier 2,Rented,109000,734,0,6.0,546000,221000,36,Business Expansion,0.067,Approved
+44,Male,Single,4,Graduate,Business Owner,Tier 2,Owned,47000,708,2,19.9,264000,250000,60,Medical,0.118,Approved
+44,Male,Single,0,Graduate,Business Owner,Tier 1,Owned,60000,733,1,20.3,103000,111000,24,Wedding,0.087,Approved
+38,Female,Single,1,Graduate,Salaried,Tier 3,Rented,21000,707,0,7.7,67000,119000,84,Medical,0.1,Approved
+43,Male,Single,0,Graduate,Business Owner,Tier 2,Rented,123000,686,1,13.9,310000,102000,48,Wedding,0.022,Approved
+58,Male,Single,1,Graduate,Self-Employed,Tier 1,Rented,48000,748,2,23.9,136000,280000,60,Vehicle,0.13,Approved
+40,Male,Single,4,Graduate,Self-Employed,Tier 1,Rented,36000,655,0,12.7,205000,135000,24,Home Renovation,0.177,Approved
+21,Female,Single,0,Graduate,Salaried,Tier 3,Living with Parents,43000,592,0,0.0,224000,118000,36,Home Renovation,0.091,Rejected
+30,Male,Single,2,Not Graduate,Unemployed,Tier 1,Rented,20000,582,1,4.7,120000,115000,60,Vehicle,0.128,Rejected
+21,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Rented,132000,680,3,0.0,754000,266000,240,Vehicle,0.022,Approved
+36,Female,Married,1,Not Graduate,Salaried,Tier 2,Owned,29000,756,1,5.0,35000,165000,60,Home Renovation,0.127,Approved
+42,Male,Single,0,Not Graduate,Self-Employed,Tier 3,Owned,21000,666,1,6.7,93000,283000,84,Education,0.238,Approved
+44,Female,Single,0,Graduate,Unemployed,Tier 1,Owned,12000,643,0,15.3,43000,118000,120,Debt Consolidation,0.141,Rejected
+38,Female,Single,2,Graduate,Salaried,Tier 2,Rented,24000,746,1,13.9,22000,102000,84,Debt Consolidation,0.075,Approved
+33,Female,Married,2,Not Graduate,Self-Employed,Tier 2,Owned,25000,608,2,3.8,83000,111000,60,Business Expansion,0.099,Rejected
+30,Male,Single,1,Graduate,Self-Employed,Tier 3,Rented,14000,666,0,5.8,35000,397000,120,Business Expansion,0.407,Approved
+36,Male,Married,1,Not Graduate,Self-Employed,Tier 2,Rented,39000,603,1,8.7,32000,124000,60,Business Expansion,0.071,Rejected
+23,Male,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,99000,614,2,1.0,154000,222000,48,Travel,0.059,Approved
+30,Female,Married,5,Not Graduate,Salaried,Tier 1,Rented,59000,734,3,7.2,37000,225000,48,Education,0.1,Approved
+34,Female,Single,1,Not Graduate,Salaried,Tier 3,Rented,19000,618,0,4.2,113000,1261000,60,Medical,1.476,Rejected
+37,Male,Married,1,Not Graduate,Salaried,Tier 1,Rented,23000,685,1,9.3,95000,274000,180,Debt Consolidation,0.143,Rejected
+36,Male,Married,1,Graduate,Salaried,Tier 3,Owned,37000,661,1,4.9,162000,372000,84,Wedding,0.177,Approved
+25,Female,Single,1,Graduate,Self-Employed,Tier 2,Owned,22000,694,0,1.6,30000,433000,24,Debt Consolidation,0.926,Rejected
+39,Male,Married,1,Graduate,Self-Employed,Tier 2,Owned,32000,657,0,5.9,97000,209000,240,Home Renovation,0.072,Approved
+30,Male,Single,0,Graduate,Self-Employed,Tier 1,Owned,100000,632,2,6.6,84000,772000,36,Wedding,0.256,Rejected
+41,Male,Married,1,Not Graduate,Self-Employed,Tier 1,Living with Parents,57000,685,1,15.9,194000,267000,60,Education,0.104,Approved
+35,Male,Single,1,Not Graduate,Salaried,Tier 1,Owned,50000,731,1,10.6,171000,964000,120,Debt Consolidation,0.277,Approved
+34,Female,Single,0,Graduate,Business Owner,Tier 3,Rented,96000,657,1,3.9,467000,374000,120,Debt Consolidation,0.056,Approved
+29,Male,Married,0,Graduate,Salaried,Tier 1,Owned,45000,588,0,6.7,45000,504000,48,Business Expansion,0.295,Rejected
+28,Male,Single,2,Graduate,Self-Employed,Tier 3,Owned,25000,618,0,5.6,29000,294000,36,Travel,0.391,Rejected
+43,Male,Single,0,Not Graduate,Self-Employed,Tier 2,Rented,75000,783,2,12.0,99000,340000,48,Vehicle,0.119,Approved
+44,Male,Single,2,Graduate,Salaried,Tier 2,Owned,38000,648,0,14.6,77000,511000,84,Debt Consolidation,0.237,Approved
+39,Female,Married,0,Graduate,Self-Employed,Tier 2,Rented,59000,707,0,6.1,83000,162000,180,Home Renovation,0.033,Approved
+24,Male,Single,0,Graduate,Self-Employed,Tier 1,Rented,38000,638,3,1.9,25000,1359000,12,Home Renovation,3.178,Rejected
+42,Male,Single,3,Graduate,Unemployed,Tier 1,Rented,9000,655,2,14.7,5000,97000,240,Education,0.119,Rejected
+23,Male,Married,1,Not Graduate,Unemployed,Tier 3,Owned,9000,512,0,1.4,47000,325000,84,Debt Consolidation,0.637,Rejected
+31,Female,Single,0,Graduate,Salaried,Tier 2,Rented,80000,701,0,8.1,452000,194000,84,Business Expansion,0.043,Approved
+21,Male,Married,2,Graduate,Self-Employed,Tier 1,Owned,45000,628,0,0.0,223000,142000,60,Debt Consolidation,0.07,Approved
+41,Male,Single,0,Not Graduate,Salaried,Tier 2,Owned,31000,706,4,15.9,137000,143000,60,Education,0.103,Approved
+26,Female,Married,1,Not Graduate,Business Owner,Tier 3,Owned,8000,571,1,4.0,17000,192000,12,Travel,2.132,Rejected
+37,Male,Married,2,Not Graduate,Self-Employed,Tier 3,Rented,20000,683,0,14.0,51000,155000,60,Travel,0.172,Approved
+29,Female,Married,1,Not Graduate,Salaried,Tier 2,Owned,23000,598,3,6.8,111000,137000,24,Vehicle,0.28,Rejected
+27,Male,Married,5,Not Graduate,Business Owner,Tier 3,Owned,34000,567,0,3.8,84000,111000,240,Vehicle,0.036,Rejected
+29,Female,Married,1,Graduate,Salaried,Tier 3,Living with Parents,38000,630,0,5.4,123000,176000,48,Debt Consolidation,0.122,Approved
+56,Male,Married,3,Graduate,Business Owner,Tier 2,Owned,104000,726,1,29.9,584000,224000,48,Wedding,0.057,Approved
+30,Female,Single,1,Graduate,Unemployed,Tier 3,Rented,9000,570,2,2.8,26000,456000,60,Wedding,1.127,Rejected
+34,Male,Single,0,Not Graduate,Salaried,Tier 1,Rented,31000,662,1,10.0,87000,108000,84,Debt Consolidation,0.061,Approved
+29,Female,Single,1,Not Graduate,Salaried,Tier 2,Living with Parents,42000,682,1,4.5,49000,136000,48,Wedding,0.085,Approved
+22,Male,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,124000,660,1,0.9,152000,182000,180,Wedding,0.018,Approved
+21,Male,Married,1,Not Graduate,Salaried,Tier 3,Rented,23000,557,0,0.0,56000,116000,12,Debt Consolidation,0.448,Rejected
+28,Male,Single,1,Not Graduate,Salaried,Tier 3,Owned,22000,643,0,3.7,118000,114000,24,Education,0.244,Rejected
+32,Male,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,51000,652,0,6.3,232000,397000,240,Home Renovation,0.086,Approved
+54,Male,Single,3,Not Graduate,Salaried,Tier 1,Rented,43000,791,0,22.3,207000,213000,84,Travel,0.087,Approved
+33,Female,Married,2,Not Graduate,Unemployed,Tier 2,Rented,15000,595,1,4.8,12000,85000,24,Business Expansion,0.267,Rejected
+23,Male,Single,3,Graduate,Unemployed,Tier 1,Living with Parents,8000,508,0,1.2,16000,238000,120,Wedding,0.427,Rejected
+36,Female,Single,2,Graduate,Self-Employed,Tier 1,Owned,36000,665,0,7.8,132000,55000,24,Travel,0.072,Approved
+35,Male,Married,1,Graduate,Salaried,Tier 1,Living with Parents,117000,711,1,11.9,108000,134000,60,Medical,0.025,Approved
+22,Male,Married,0,Not Graduate,Salaried,Tier 2,Owned,32000,594,1,0.3,191000,129000,120,Business Expansion,0.058,Rejected
+30,Male,Married,1,Graduate,Unemployed,Tier 2,Owned,12000,642,0,7.6,8000,59000,36,Vehicle,0.163,Rejected
+48,Female,Single,2,Graduate,Unemployed,Tier 2,Living with Parents,8000,566,0,10.8,10000,186000,12,Business Expansion,2.066,Rejected
+32,Male,Married,1,Graduate,Salaried,Tier 1,Living with Parents,172000,754,2,6.3,849000,179000,36,Debt Consolidation,0.035,Approved
+57,Female,Single,0,Graduate,Business Owner,Tier 1,Rented,56000,724,1,29.9,187000,93000,180,Business Expansion,0.02,Approved
+42,Male,Single,1,Graduate,Salaried,Tier 2,Living with Parents,31000,641,1,13.0,18000,117000,24,Wedding,0.178,Approved
+31,Male,Married,1,Not Graduate,Business Owner,Tier 1,Rented,30000,633,1,5.8,140000,212000,36,Business Expansion,0.235,Rejected
+21,Female,Married,1,Not Graduate,Salaried,Tier 3,Living with Parents,63000,670,0,0.0,110000,794000,24,Vehicle,0.593,Rejected
+45,Male,Married,0,Graduate,Salaried,Tier 3,Rented,36000,647,0,16.0,198000,1032000,60,Travel,0.638,Rejected
+40,Female,Single,1,Not Graduate,Business Owner,Tier 1,Owned,88000,635,0,10.8,324000,125000,60,Debt Consolidation,0.032,Approved
+23,Female,Married,2,Graduate,Salaried,Tier 3,Rented,26000,608,1,1.3,146000,297000,12,Medical,1.015,Rejected
+27,Female,Married,0,Graduate,Salaried,Tier 3,Owned,45000,637,0,3.1,129000,72000,120,Education,0.023,Approved
+29,Female,Married,0,Graduate,Salaried,Tier 1,Living with Parents,61000,672,2,6.0,73000,78000,120,Wedding,0.018,Approved
+27,Male,Married,1,Not Graduate,Salaried,Tier 3,Rented,33000,692,0,2.9,171000,622000,36,Medical,0.626,Rejected
+38,Female,Single,2,Not Graduate,Self-Employed,Tier 2,Rented,24000,638,0,7.5,136000,269000,120,Wedding,0.161,Rejected
+37,Male,Married,4,Graduate,Salaried,Tier 2,Living with Parents,64000,627,2,8.4,196000,224000,120,Home Renovation,0.05,Approved
+44,Female,Married,2,Graduate,Self-Employed,Tier 1,Rented,61000,689,0,16.6,186000,108000,36,Business Expansion,0.059,Approved
+26,Male,Married,0,Graduate,Salaried,Tier 2,Living with Parents,52000,602,0,2.4,247000,157000,12,Home Renovation,0.268,Rejected
+35,Male,Married,1,Graduate,Salaried,Tier 1,Rented,45000,733,0,5.9,45000,128000,12,Medical,0.253,Approved
+24,Female,Single,1,Not Graduate,Unemployed,Tier 2,Owned,14000,515,1,1.0,79000,319000,24,Medical,1.073,Rejected
+25,Female,Single,2,Graduate,Salaried,Tier 2,Living with Parents,43000,678,1,3.3,214000,99000,240,Medical,0.025,Approved
+26,Female,Single,1,Not Graduate,Self-Employed,Tier 1,Living with Parents,78000,641,1,2.2,407000,165000,84,Education,0.037,Approved
+53,Male,Married,1,Not Graduate,Business Owner,Tier 3,Owned,65000,740,0,22.0,130000,442000,60,Travel,0.151,Approved
+22,Female,Single,1,Not Graduate,Self-Employed,Tier 1,Owned,70000,628,1,0.9,207000,135000,36,Wedding,0.064,Approved
+50,Male,Single,3,Graduate,Business Owner,Tier 2,Living with Parents,29000,652,1,10.6,164000,104000,60,Vehicle,0.08,Rejected
+36,Male,Single,0,Not Graduate,Self-Employed,Tier 2,Living with Parents,19000,730,1,5.7,81000,89000,120,Medical,0.067,Approved
+21,Female,Married,1,Not Graduate,Salaried,Tier 1,Rented,44000,633,6,0.0,257000,186000,24,Education,0.199,Rejected
+35,Female,Single,0,Graduate,Self-Employed,Tier 2,Living with Parents,41000,669,1,5.1,93000,201000,84,Business Expansion,0.087,Approved
+21,Female,Married,0,Not Graduate,Self-Employed,Tier 3,Rented,54000,665,1,0.0,142000,76000,84,Education,0.025,Approved
+30,Female,Married,1,Not Graduate,Self-Employed,Tier 1,Living with Parents,88000,700,2,6.6,257000,326000,48,Vehicle,0.098,Approved
+37,Female,Married,2,Graduate,Self-Employed,Tier 1,Owned,86000,633,1,13.6,157000,446000,60,Wedding,0.115,Approved
+35,Female,Married,5,Graduate,Salaried,Tier 1,Owned,79000,654,1,6.5,227000,130000,24,Travel,0.077,Approved
+32,Female,Single,2,Graduate,Self-Employed,Tier 2,Rented,25000,650,0,3.4,108000,123000,60,Debt Consolidation,0.109,Rejected
+30,Male,Married,0,Not Graduate,Business Owner,Tier 1,Living with Parents,64000,691,1,6.0,125000,227000,120,Medical,0.051,Approved
+46,Male,Single,2,Graduate,Salaried,Tier 2,Owned,18000,648,2,21.3,62000,92000,36,Business Expansion,0.17,Rejected
+31,Female,Married,4,Not Graduate,Business Owner,Tier 3,Owned,32000,675,0,6.5,93000,331000,60,Vehicle,0.23,Approved
+43,Female,Married,1,Graduate,Self-Employed,Tier 2,Living with Parents,37000,745,1,15.4,93000,215000,120,Vehicle,0.083,Approved
+26,Male,Single,1,Graduate,Salaried,Tier 2,Rented,53000,650,2,1.7,166000,241000,36,Vehicle,0.151,Approved
+30,Female,Single,3,Graduate,Self-Employed,Tier 1,Living with Parents,47000,704,3,6.1,252000,665000,84,Medical,0.25,Rejected
+34,Female,Single,0,Not Graduate,Business Owner,Tier 2,Rented,26000,706,3,10.3,100000,430000,24,Home Renovation,0.779,Rejected
+25,Male,Single,1,Graduate,Salaried,Tier 3,Living with Parents,72000,604,2,1.6,359000,56000,12,Debt Consolidation,0.069,Rejected
+28,Male,Married,3,Not Graduate,Salaried,Tier 3,Living with Parents,21000,656,2,4.3,15000,116000,24,Vehicle,0.26,Approved
+33,Male,Married,2,Graduate,Salaried,Tier 2,Owned,76000,746,2,3.7,44000,212000,48,Medical,0.073,Approved
+36,Female,Married,3,Not Graduate,Business Owner,Tier 3,Rented,60000,693,0,10.0,286000,695000,12,Vehicle,1.029,Rejected
+22,Male,Single,1,Graduate,Salaried,Tier 2,Rented,39000,647,1,0.4,72000,305000,24,Vehicle,0.368,Approved
+21,Female,Married,1,Graduate,Salaried,Tier 1,Rented,83000,546,0,0.0,449000,117000,36,Business Expansion,0.047,Rejected
+39,Male,Single,0,Graduate,Self-Employed,Tier 1,Rented,19000,687,0,8.0,80000,104000,120,Vehicle,0.079,Approved
+49,Male,Married,2,Graduate,Salaried,Tier 1,Living with Parents,160000,701,0,17.3,448000,354000,180,Medical,0.027,Approved
+31,Female,Married,2,Not Graduate,Business Owner,Tier 3,Owned,82000,679,0,4.8,284000,264000,24,Vehicle,0.152,Approved
+27,Male,Single,2,Graduate,Salaried,Tier 1,Rented,99000,609,2,4.0,169000,407000,48,Debt Consolidation,0.108,Rejected
+42,Male,Single,1,Not Graduate,Salaried,Tier 1,Rented,27000,701,2,13.1,137000,127000,60,Medical,0.105,Approved
+38,Male,Single,0,Graduate,Self-Employed,Tier 2,Owned,69000,706,0,15.1,178000,354000,120,Travel,0.074,Approved
+28,Female,Single,2,Graduate,Business Owner,Tier 2,Rented,91000,674,0,6.2,461000,438000,84,Education,0.085,Approved
+42,Male,Single,1,Not Graduate,Self-Employed,Tier 3,Rented,53000,657,0,16.6,313000,304000,36,Home Renovation,0.191,Approved
+49,Male,Single,1,Not Graduate,Business Owner,Tier 2,Owned,36000,709,1,14.5,60000,400000,60,Vehicle,0.247,Approved
+44,Female,Single,1,Graduate,Business Owner,Tier 1,Owned,29000,665,0,6.9,62000,82000,36,Business Expansion,0.094,Rejected
+40,Male,Married,3,Not Graduate,Self-Employed,Tier 1,Owned,19000,672,4,16.3,37000,184000,60,Business Expansion,0.215,Rejected
+27,Male,Married,1,Graduate,Self-Employed,Tier 1,Rented,67000,667,0,3.4,282000,385000,240,Vehicle,0.063,Approved
+35,Female,Single,1,Graduate,Business Owner,Tier 3,Rented,24000,645,0,8.4,77000,268000,60,Business Expansion,0.248,Rejected
+35,Male,Single,0,Graduate,Business Owner,Tier 2,Owned,78000,699,1,5.1,190000,145000,60,Home Renovation,0.041,Approved
+41,Female,Married,1,Graduate,Salaried,Tier 1,Living with Parents,52000,647,1,13.5,39000,315000,180,Medical,0.073,Approved
+36,Male,Single,1,Graduate,Business Owner,Tier 1,Rented,48000,721,2,8.9,193000,187000,12,Home Renovation,0.346,Approved
+31,Male,Married,0,Graduate,Business Owner,Tier 1,Living with Parents,100000,694,0,6.9,478000,261000,48,Debt Consolidation,0.069,Approved
+49,Female,Married,5,Not Graduate,Self-Employed,Tier 1,Rented,34000,661,0,17.5,167000,46000,120,Education,0.019,Approved
+41,Female,Single,1,Graduate,Unemployed,Tier 2,Living with Parents,17000,617,1,17.2,89000,209000,24,Business Expansion,0.579,Rejected
+44,Female,Single,1,Not Graduate,Business Owner,Tier 2,Rented,55000,642,0,19.8,209000,294000,36,Home Renovation,0.178,Approved
+46,Male,Married,0,Graduate,Self-Employed,Tier 1,Rented,45000,641,0,9.4,90000,106000,48,Business Expansion,0.062,Approved
+31,Male,Married,2,Graduate,Self-Employed,Tier 2,Living with Parents,30000,675,1,6.4,94000,323000,120,Vehicle,0.154,Rejected
+21,Male,Married,1,Graduate,Salaried,Tier 1,Living with Parents,8000,656,0,0.0,43000,364000,60,Education,1.012,Rejected
+35,Female,Single,2,Not Graduate,Salaried,Tier 2,Owned,57000,605,2,9.0,175000,144000,84,Travel,0.045,Rejected
+29,Female,Married,0,Graduate,Salaried,Tier 1,Rented,78000,609,0,4.6,257000,364000,60,Vehicle,0.104,Approved
+45,Male,Married,1,Graduate,Self-Employed,Tier 1,Owned,37000,634,2,10.3,213000,210000,120,Business Expansion,0.081,Approved
+35,Male,Single,2,Not Graduate,Self-Employed,Tier 1,Living with Parents,23000,693,0,8.9,119000,104000,84,Medical,0.08,Approved
+46,Male,Married,2,Not Graduate,Salaried,Tier 3,Rented,72000,662,0,9.5,79000,256000,84,Travel,0.063,Approved
+45,Male,Married,2,Not Graduate,Salaried,Tier 3,Rented,36000,698,0,10.0,191000,229000,24,Medical,0.299,Approved
+36,Male,Married,1,Not Graduate,Salaried,Tier 2,Living with Parents,17000,616,1,12.5,16000,112000,84,Education,0.116,Approved
+21,Female,Single,1,Graduate,Self-Employed,Tier 2,Rented,30000,539,2,0.0,76000,322000,36,Medical,0.357,Rejected
+32,Female,Married,1,Not Graduate,Salaried,Tier 2,Living with Parents,105000,707,0,6.4,484000,130000,36,Debt Consolidation,0.041,Approved
+47,Female,Single,0,Not Graduate,Salaried,Tier 2,Owned,29000,712,0,10.1,162000,292000,48,Vehicle,0.265,Approved
+21,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Rented,156000,693,2,0.0,240000,550000,60,Home Renovation,0.078,Approved
+36,Female,Married,3,Not Graduate,Self-Employed,Tier 2,Owned,62000,672,0,8.2,334000,96000,48,Debt Consolidation,0.041,Approved
+34,Male,Single,1,Graduate,Salaried,Tier 1,Rented,59000,581,1,5.1,155000,255000,48,Education,0.114,Rejected
+30,Female,Single,1,Graduate,Salaried,Tier 3,Owned,44000,660,1,2.9,217000,1049000,12,Vehicle,2.118,Rejected
+23,Female,Married,1,Not Graduate,Salaried,Tier 1,Owned,79000,653,1,0.9,227000,359000,36,Home Renovation,0.151,Approved
+31,Female,Married,0,Not Graduate,Salaried,Tier 2,Living with Parents,31000,624,0,3.2,62000,152000,24,Education,0.231,Rejected
+24,Male,Single,0,Graduate,Business Owner,Tier 1,Owned,331000,682,0,1.7,185000,119000,36,Home Renovation,0.012,Approved
+23,Female,Single,1,Graduate,Self-Employed,Tier 2,Rented,53000,637,2,1.8,154000,215000,36,Debt Consolidation,0.135,Rejected
+52,Female,Married,2,Graduate,Salaried,Tier 2,Owned,67000,638,3,27.3,109000,314000,24,Home Renovation,0.221,Approved
+38,Male,Married,1,Not Graduate,Business Owner,Tier 2,Rented,122000,715,1,7.4,541000,130000,36,Home Renovation,0.035,Approved
+38,Female,Married,3,Not Graduate,Business Owner,Tier 3,Living with Parents,41000,651,0,9.5,115000,295000,48,Wedding,0.189,Approved
+34,Male,Married,2,Graduate,Self-Employed,Tier 1,Rented,24000,676,3,8.7,98000,191000,120,Home Renovation,0.114,Rejected
+32,Male,Single,2,Graduate,Self-Employed,Tier 3,Rented,13000,654,0,4.6,23000,232000,60,Education,0.397,Rejected
+29,Female,Married,2,Graduate,Self-Employed,Tier 2,Living with Parents,26000,662,0,3.9,122000,108000,36,Education,0.138,Approved
+21,Male,Married,2,Not Graduate,Unemployed,Tier 3,Owned,8000,552,1,0.0,12000,905000,24,Vehicle,5.325,Rejected
+45,Male,Single,2,Graduate,Salaried,Tier 2,Rented,69000,618,0,10.9,184000,349000,24,Travel,0.238,Rejected
+36,Male,Single,2,Graduate,Self-Employed,Tier 3,Rented,30000,744,0,9.8,68000,191000,36,Debt Consolidation,0.211,Approved
+34,Male,Married,1,Graduate,Self-Employed,Tier 2,Rented,25000,669,4,5.5,106000,222000,60,Vehicle,0.198,Rejected
+31,Female,Married,1,Graduate,Salaried,Tier 2,Rented,80000,611,2,6.6,466000,211000,60,Home Renovation,0.059,Approved
+26,Male,Married,0,Not Graduate,Unemployed,Tier 1,Rented,33000,575,0,3.6,64000,1154000,120,Home Renovation,0.502,Rejected
+27,Male,Married,0,Graduate,Salaried,Tier 2,Owned,48000,682,1,4.3,222000,734000,120,Education,0.219,Approved
+23,Female,Married,1,Not Graduate,Business Owner,Tier 2,Rented,50000,612,1,1.3,86000,142000,84,Medical,0.05,Approved
+35,Male,Single,3,Graduate,Self-Employed,Tier 1,Rented,48000,608,1,5.8,241000,339000,24,Travel,0.332,Rejected
+26,Male,Married,0,Not Graduate,Self-Employed,Tier 1,Owned,107000,659,1,2.6,156000,70000,60,Education,0.015,Approved
+49,Male,Single,1,Graduate,Salaried,Tier 1,Rented,56000,693,0,11.9,239000,100000,180,Vehicle,0.021,Approved
+21,Male,Married,0,Graduate,Salaried,Tier 1,Owned,40000,633,1,0.0,124000,373000,240,Medical,0.103,Approved
+43,Female,Married,1,Graduate,Business Owner,Tier 1,Owned,145000,724,1,18.6,388000,253000,24,Medical,0.082,Approved
+31,Male,Married,0,Not Graduate,Salaried,Tier 1,Living with Parents,72000,698,1,3.4,185000,655000,180,Vehicle,0.109,Approved
+30,Female,Single,1,Graduate,Salaried,Tier 3,Owned,26000,681,1,4.8,114000,148000,180,Vehicle,0.068,Approved
+33,Male,Single,2,Graduate,Business Owner,Tier 3,Living with Parents,46000,598,0,10.5,187000,167000,12,Business Expansion,0.323,Rejected
+37,Female,Married,3,Not Graduate,Business Owner,Tier 1,Rented,42000,750,1,13.9,166000,318000,240,Business Expansion,0.083,Approved
+38,Female,Single,2,Graduate,Salaried,Tier 3,Owned,92000,716,1,13.8,307000,333000,36,Home Renovation,0.12,Approved
+26,Female,Single,0,Not Graduate,Self-Employed,Tier 3,Owned,20000,635,2,3.8,23000,240000,60,Medical,0.267,Approved
+32,Male,Married,1,Graduate,Salaried,Tier 3,Rented,23000,666,2,6.8,119000,389000,60,Travel,0.376,Rejected
+24,Female,Married,1,Graduate,Business Owner,Tier 1,Living with Parents,53000,605,1,1.1,293000,178000,24,Education,0.158,Approved
+23,Female,Married,1,Not Graduate,Salaried,Tier 3,Owned,27000,671,0,0.9,77000,203000,12,Travel,0.668,Approved
+42,Male,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,44000,704,0,12.3,252000,373000,84,Vehicle,0.15,Approved
+43,Male,Single,1,Not Graduate,Salaried,Tier 2,Owned,19000,654,0,19.5,64000,99000,60,Medical,0.116,Rejected
+31,Male,Married,2,Not Graduate,Business Owner,Tier 3,Owned,23000,688,0,3.6,133000,295000,84,Medical,0.226,Approved
+38,Male,Married,3,Graduate,Salaried,Tier 3,Rented,18000,631,2,8.7,30000,168000,60,Wedding,0.208,Rejected
+53,Female,Married,2,Graduate,Salaried,Tier 1,Rented,56000,699,1,25.3,62000,243000,12,Education,0.386,Approved
+37,Male,Married,0,Not Graduate,Salaried,Tier 1,Owned,35000,710,1,8.5,159000,197000,120,Home Renovation,0.081,Approved
+31,Male,Single,2,Graduate,Salaried,Tier 3,Living with Parents,40000,603,1,7.4,185000,109000,120,Education,0.039,Approved
+44,Male,Married,1,Graduate,Salaried,Tier 2,Living with Parents,37000,685,1,13.1,129000,104000,180,Vehicle,0.034,Approved
+34,Male,Married,0,Not Graduate,Self-Employed,Tier 2,Rented,22000,665,1,8.4,119000,533000,180,Debt Consolidation,0.291,Rejected
+33,Female,Single,4,Graduate,Salaried,Tier 3,Owned,22000,585,2,9.0,41000,118000,36,Wedding,0.178,Rejected
+40,Male,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,54000,697,0,10.3,140000,272000,120,Business Expansion,0.072,Approved
+43,Male,Single,2,Graduate,Business Owner,Tier 2,Owned,57000,721,0,9.0,322000,101000,60,Medical,0.039,Approved
+41,Female,Single,1,Not Graduate,Self-Employed,Tier 1,Rented,70000,702,1,16.6,255000,333000,24,Vehicle,0.224,Approved
+35,Male,Single,3,Graduate,Salaried,Tier 2,Rented,45000,708,0,9.8,92000,105000,120,Vehicle,0.033,Approved
+48,Female,Single,3,Not Graduate,Self-Employed,Tier 2,Owned,18000,643,2,12.6,44000,557000,84,Travel,0.546,Rejected
+35,Female,Married,1,Not Graduate,Salaried,Tier 2,Living with Parents,43000,593,0,7.1,226000,247000,240,Wedding,0.063,Rejected
+45,Male,Married,2,Graduate,Self-Employed,Tier 2,Living with Parents,85000,710,1,14.6,257000,452000,180,Home Renovation,0.064,Approved
+28,Male,Married,1,Graduate,Business Owner,Tier 1,Living with Parents,44000,563,1,4.7,205000,158000,36,Business Expansion,0.119,Rejected
+29,Male,Single,3,Graduate,Business Owner,Tier 3,Owned,76000,616,1,4.1,238000,237000,48,Travel,0.082,Approved
+25,Male,Single,1,Graduate,Self-Employed,Tier 2,Rented,56000,632,2,2.6,321000,128000,36,Vehicle,0.076,Rejected
+25,Male,Married,1,Graduate,Salaried,Tier 1,Rented,80000,598,1,2.7,363000,194000,24,Vehicle,0.114,Rejected
+37,Female,Married,1,Not Graduate,Self-Employed,Tier 2,Living with Parents,38000,665,1,13.1,89000,196000,84,Wedding,0.091,Approved
+26,Female,Single,1,Not Graduate,Self-Employed,Tier 3,Rented,116000,631,0,2.1,594000,371000,60,Business Expansion,0.071,Approved
+39,Male,Married,1,Not Graduate,Business Owner,Tier 2,Rented,14000,650,1,6.7,29000,122000,36,Travel,0.289,Rejected
+51,Male,Married,1,Graduate,Salaried,Tier 3,Rented,8000,715,0,18.4,37000,289000,24,Vehicle,1.701,Rejected
+51,Female,Married,0,Not Graduate,Business Owner,Tier 2,Owned,35000,751,1,14.6,209000,277000,60,Business Expansion,0.176,Approved
+34,Female,Single,1,Graduate,Self-Employed,Tier 2,Rented,30000,679,0,11.2,100000,221000,60,Vehicle,0.164,Approved
+35,Female,Married,0,Graduate,Business Owner,Tier 1,Living with Parents,67000,653,2,7.0,249000,177000,240,Medical,0.029,Approved
+30,Male,Married,2,Not Graduate,Unemployed,Tier 2,Owned,8000,597,2,7.2,36000,286000,84,Travel,0.631,Rejected
+21,Female,Married,2,Not Graduate,Salaried,Tier 2,Living with Parents,145000,693,2,0.0,445000,367000,12,Medical,0.225,Approved
+36,Male,Married,3,Graduate,Self-Employed,Tier 2,Living with Parents,88000,660,1,4.6,47000,94000,36,Travel,0.035,Approved
+32,Male,Married,0,Graduate,Business Owner,Tier 3,Owned,87000,670,1,4.3,397000,116000,36,Debt Consolidation,0.044,Approved
+36,Female,Single,1,Not Graduate,Self-Employed,Tier 1,Owned,55000,634,0,12.5,197000,225000,180,Travel,0.049,Approved
+25,Female,Married,0,Not Graduate,Business Owner,Tier 3,Owned,74000,688,2,1.9,436000,70000,48,Debt Consolidation,0.025,Approved
+41,Male,Married,0,Graduate,Self-Employed,Tier 2,Owned,57000,738,0,13.7,296000,266000,24,Medical,0.22,Approved
+41,Female,Single,1,Graduate,Self-Employed,Tier 1,Living with Parents,23000,692,1,17.2,133000,296000,60,Medical,0.286,Approved
+31,Female,Married,3,Not Graduate,Salaried,Tier 1,Living with Parents,36000,676,0,3.7,89000,129000,48,Education,0.094,Approved
+24,Female,Married,2,Not Graduate,Self-Employed,Tier 2,Owned,32000,608,1,1.4,23000,241000,84,Education,0.133,Rejected
+45,Female,Married,1,Not Graduate,Self-Employed,Tier 2,Owned,23000,617,0,16.2,14000,36000,36,Business Expansion,0.052,Rejected
+34,Male,Single,0,Graduate,Salaried,Tier 2,Rented,30000,681,0,9.8,71000,147000,24,Education,0.231,Approved
+32,Female,Married,4,Not Graduate,Salaried,Tier 2,Owned,31000,650,2,5.2,32000,133000,48,Business Expansion,0.113,Approved
+34,Male,Married,1,Graduate,Salaried,Tier 1,Owned,45000,612,1,5.1,106000,136000,48,Wedding,0.08,Approved
+54,Male,Married,0,Graduate,Salaried,Tier 3,Rented,21000,696,1,29.0,105000,189000,36,Medical,0.299,Approved
+34,Male,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,46000,687,2,8.7,251000,74000,120,Vehicle,0.023,Approved
+41,Male,Married,2,Graduate,Salaried,Tier 2,Owned,154000,708,1,16.9,143000,351000,60,Wedding,0.051,Approved
+44,Male,Single,1,Graduate,Business Owner,Tier 1,Living with Parents,51000,700,1,8.3,123000,370000,84,Business Expansion,0.128,Approved
+21,Female,Married,0,Graduate,Unemployed,Tier 3,Rented,8000,519,1,0.0,22000,287000,12,Wedding,3.187,Rejected
+33,Male,Single,5,Not Graduate,Business Owner,Tier 2,Rented,33000,626,0,3.7,162000,349000,36,Medical,0.351,Rejected
+38,Male,Single,1,Not Graduate,Business Owner,Tier 2,Rented,17000,662,0,10.6,79000,286000,60,Vehicle,0.374,Rejected
+35,Male,Married,1,Not Graduate,Salaried,Tier 2,Rented,61000,696,1,10.3,267000,212000,48,Business Expansion,0.092,Approved
+21,Female,Married,1,Graduate,Salaried,Tier 2,Owned,41000,626,0,0.0,130000,193000,60,Business Expansion,0.105,Approved
+30,Female,Single,1,Graduate,Salaried,Tier 2,Living with Parents,46000,642,0,7.5,41000,300000,60,Medical,0.145,Approved
+33,Female,Married,1,Not Graduate,Self-Employed,Tier 2,Rented,58000,658,0,4.4,240000,329000,240,Travel,0.062,Approved
+47,Female,Married,2,Graduate,Self-Employed,Tier 2,Owned,33000,669,1,12.3,160000,148000,48,Medical,0.118,Approved
+26,Female,Married,0,Graduate,Self-Employed,Tier 2,Owned,23000,658,2,2.2,56000,210000,60,Home Renovation,0.203,Rejected
+31,Male,Single,1,Not Graduate,Business Owner,Tier 2,Owned,116000,662,0,6.9,338000,184000,12,Vehicle,0.141,Approved
+21,Male,Married,4,Not Graduate,Salaried,Tier 1,Living with Parents,149000,600,1,0.0,608000,89000,60,Travel,0.013,Approved
+38,Male,Single,2,Graduate,Salaried,Tier 1,Rented,32000,726,1,6.0,103000,130000,48,Medical,0.107,Approved
+23,Male,Single,3,Graduate,Salaried,Tier 3,Owned,22000,702,0,0.9,71000,265000,48,Education,0.317,Approved
+37,Female,Single,2,Graduate,Salaried,Tier 1,Owned,68000,686,0,11.4,206000,304000,36,Education,0.148,Approved
+21,Female,Single,4,Not Graduate,Business Owner,Tier 1,Living with Parents,19000,625,1,0.0,84000,127000,36,Wedding,0.222,Rejected
+46,Male,Married,0,Not Graduate,Salaried,Tier 3,Owned,21000,680,0,18.0,125000,125000,180,Vehicle,0.071,Approved
+28,Male,Married,3,Graduate,Business Owner,Tier 2,Owned,8000,636,1,4.2,28000,282000,36,Home Renovation,1.171,Rejected
+47,Female,Married,1,Graduate,Unemployed,Tier 3,Living with Parents,8000,504,0,19.3,40000,246000,24,Medical,1.448,Rejected
+21,Female,Married,0,Graduate,Salaried,Tier 3,Rented,29000,544,1,0.0,64000,155000,240,Debt Consolidation,0.059,Approved
+24,Female,Married,1,Graduate,Salaried,Tier 2,Owned,31000,600,0,1.2,130000,252000,24,Debt Consolidation,0.383,Approved
+34,Male,Single,0,Graduate,Salaried,Tier 3,Rented,33000,643,0,9.0,182000,258000,24,Education,0.368,Rejected
+36,Female,Married,2,Not Graduate,Salaried,Tier 2,Rented,26000,781,1,5.3,138000,115000,36,Education,0.147,Approved
+49,Male,Married,3,Not Graduate,Business Owner,Tier 2,Living with Parents,64000,697,0,14.3,328000,287000,60,Wedding,0.1,Approved
+32,Female,Single,0,Graduate,Unemployed,Tier 1,Rented,47000,562,0,7.0,103000,285000,84,Wedding,0.107,Rejected
+30,Male,Single,1,Graduate,Self-Employed,Tier 2,Rented,19000,660,1,4.6,16000,247000,84,Debt Consolidation,0.229,Rejected
+39,Male,Married,1,Graduate,Salaried,Tier 3,Living with Parents,31000,633,2,7.4,100000,168000,60,Wedding,0.121,Rejected
+24,Male,Married,0,Not Graduate,Business Owner,Tier 2,Rented,32000,630,0,1.2,108000,99000,240,Medical,0.034,Approved
+57,Female,Married,3,Graduate,Salaried,Tier 3,Rented,41000,741,1,18.6,186000,228000,60,Vehicle,0.124,Approved
+40,Male,Single,1,Graduate,Salaried,Tier 1,Rented,79000,737,0,14.1,389000,186000,24,Business Expansion,0.111,Approved
+30,Male,Married,0,Graduate,Salaried,Tier 3,Owned,12000,660,0,3.2,32000,494000,36,Vehicle,1.367,Rejected
+24,Male,Married,2,Not Graduate,Salaried,Tier 3,Owned,50000,701,0,2.0,99000,173000,60,Debt Consolidation,0.077,Approved
+37,Female,Single,3,Not Graduate,Salaried,Tier 2,Owned,12000,683,1,10.9,55000,182000,180,Home Renovation,0.182,Approved
+42,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Owned,57000,648,1,10.8,232000,86000,120,Education,0.022,Approved
+32,Male,Single,3,Graduate,Business Owner,Tier 3,Owned,28000,643,1,5.4,30000,194000,24,Medical,0.326,Approved
+44,Male,Single,0,Not Graduate,Self-Employed,Tier 1,Rented,20000,727,0,15.8,22000,319000,240,Travel,0.176,Approved
+44,Male,Married,0,Graduate,Salaried,Tier 2,Owned,15000,721,0,8.6,71000,320000,180,Business Expansion,0.256,Approved
+46,Female,Married,1,Graduate,Salaried,Tier 3,Owned,31000,687,1,11.1,104000,295000,24,Wedding,0.448,Approved
+21,Male,Single,2,Graduate,Salaried,Tier 2,Rented,28000,607,0,0.0,121000,515000,180,Vehicle,0.221,Rejected
+35,Male,Married,5,Not Graduate,Salaried,Tier 2,Rented,60000,643,0,10.2,161000,80000,12,Education,0.118,Approved
+21,Female,Single,1,Graduate,Self-Employed,Tier 3,Rented,40000,550,1,0.0,91000,426000,36,Education,0.354,Rejected
+33,Male,Married,0,Not Graduate,Unemployed,Tier 2,Rented,9000,574,0,9.5,15000,139000,60,Home Renovation,0.344,Rejected
+22,Male,Single,0,Graduate,Salaried,Tier 3,Living with Parents,23000,627,1,0.3,63000,127000,60,Medical,0.123,Rejected
+34,Male,Married,3,Graduate,Self-Employed,Tier 2,Rented,44000,583,0,10.4,70000,355000,120,Home Renovation,0.116,Rejected
+23,Male,Married,4,Graduate,Unemployed,Tier 2,Owned,16000,520,1,0.6,80000,440000,48,Medical,0.724,Rejected
+46,Male,Married,0,Graduate,Business Owner,Tier 1,Owned,56000,729,0,15.5,279000,329000,36,Vehicle,0.195,Approved
+21,Female,Married,0,Graduate,Business Owner,Tier 2,Rented,32000,628,1,0.0,61000,179000,84,Home Renovation,0.099,Rejected
+51,Male,Married,0,Graduate,Salaried,Tier 1,Owned,49000,751,0,15.1,268000,306000,60,Business Expansion,0.139,Approved
+29,Male,Single,0,Not Graduate,Salaried,Tier 1,Owned,49000,615,2,3.1,248000,224000,48,Vehicle,0.12,Approved
+21,Female,Married,2,Graduate,Salaried,Tier 3,Owned,12000,655,1,0.0,38000,421000,84,Wedding,0.619,Rejected
+46,Male,Married,1,Graduate,Salaried,Tier 1,Rented,59000,678,0,11.6,250000,92000,24,Medical,0.073,Approved
+36,Female,Married,1,Graduate,Salaried,Tier 2,Rented,42000,680,3,11.7,172000,235000,84,Home Renovation,0.099,Approved
+46,Female,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,238000,749,0,18.3,775000,159000,36,Travel,0.022,Approved
+44,Female,Married,1,Graduate,Unemployed,Tier 1,Rented,13000,598,2,18.3,18000,103000,84,Medical,0.14,Rejected
+25,Male,Married,2,Not Graduate,Salaried,Tier 2,Rented,36000,603,0,2.8,139000,217000,48,Wedding,0.159,Approved
+28,Male,Married,1,Graduate,Salaried,Tier 3,Owned,27000,646,0,5.8,159000,275000,240,Travel,0.112,Approved
+26,Male,Married,1,Graduate,Salaried,Tier 3,Owned,16000,540,1,3.2,65000,136000,240,Travel,0.094,Rejected
+54,Female,Married,2,Graduate,Unemployed,Tier 2,Owned,13000,571,0,12.4,53000,96000,24,Vehicle,0.348,Rejected
+30,Male,Married,1,Graduate,Unemployed,Tier 3,Rented,12000,616,5,6.7,62000,223000,24,Vehicle,0.875,Rejected
+28,Female,Married,1,Graduate,Salaried,Tier 2,Rented,118000,731,0,3.4,640000,117000,60,Vehicle,0.022,Approved
+21,Male,Single,4,Graduate,Salaried,Tier 3,Owned,34000,594,1,0.0,183000,215000,60,Business Expansion,0.141,Approved
+32,Female,Married,1,Not Graduate,Business Owner,Tier 1,Rented,29000,626,0,8.6,78000,334000,240,Home Renovation,0.127,Approved
+47,Male,Married,0,Not Graduate,Self-Employed,Tier 3,Owned,23000,674,2,20.7,116000,67000,60,Business Expansion,0.065,Rejected
+47,Female,Married,1,Graduate,Salaried,Tier 3,Owned,39000,668,3,15.5,167000,51000,240,Business Expansion,0.014,Approved
+31,Female,Single,1,Not Graduate,Business Owner,Tier 1,Living with Parents,45000,693,1,8.3,150000,288000,84,Business Expansion,0.113,Approved
+41,Female,Married,1,Not Graduate,Salaried,Tier 2,Owned,18000,650,1,14.1,88000,95000,240,Business Expansion,0.058,Approved
+39,Female,Married,1,Graduate,Self-Employed,Tier 2,Owned,41000,663,0,8.1,107000,160000,180,Business Expansion,0.047,Approved
+34,Male,Married,0,Graduate,Self-Employed,Tier 2,Owned,38000,658,1,4.5,134000,222000,36,Education,0.194,Rejected
+41,Male,Married,0,Graduate,Salaried,Tier 2,Rented,25000,720,0,7.4,61000,174000,48,Wedding,0.183,Approved
+46,Male,Married,0,Graduate,Salaried,Tier 1,Rented,47000,658,1,14.1,96000,448000,24,Home Renovation,0.449,Approved
+21,Male,Single,0,Graduate,Business Owner,Tier 2,Rented,47000,698,6,0.0,280000,79000,36,Vehicle,0.056,Rejected
+36,Female,Single,1,Not Graduate,Unemployed,Tier 1,Owned,23000,582,1,7.1,74000,236000,60,Travel,0.228,Rejected
+31,Male,Single,1,Graduate,Business Owner,Tier 3,Rented,26000,556,2,8.4,41000,194000,48,Wedding,0.196,Rejected
+39,Female,Married,0,Graduate,Unemployed,Tier 1,Living with Parents,8000,589,1,13.0,8000,59000,180,Vehicle,0.089,Rejected
+29,Male,Married,2,Graduate,Salaried,Tier 3,Rented,31000,608,1,5.7,75000,530000,180,Home Renovation,0.205,Rejected
+23,Female,Married,3,Graduate,Salaried,Tier 2,Owned,17000,530,0,1.4,56000,95000,240,Business Expansion,0.062,Rejected
+21,Male,Single,1,Not Graduate,Salaried,Tier 3,Rented,38000,656,3,0.0,117000,205000,84,Travel,0.095,Rejected
+35,Male,Single,1,Not Graduate,Salaried,Tier 2,Rented,45000,691,0,11.2,189000,88000,48,Education,0.051,Approved
+37,Male,Single,0,Graduate,Salaried,Tier 2,Rented,33000,739,0,12.8,194000,238000,240,Wedding,0.079,Approved
+49,Female,Single,1,Not Graduate,Self-Employed,Tier 3,Owned,15000,716,0,25.1,79000,132000,60,Business Expansion,0.196,Approved
+30,Male,Married,3,Graduate,Self-Employed,Tier 1,Owned,26000,615,0,5.0,95000,245000,48,Vehicle,0.248,Rejected
+38,Female,Married,4,Not Graduate,Salaried,Tier 3,Rented,58000,686,3,12.1,83000,290000,120,Debt Consolidation,0.072,Approved
+26,Female,Married,3,Not Graduate,Salaried,Tier 2,Owned,78000,664,3,3.3,426000,261000,36,Business Expansion,0.111,Rejected
+39,Female,Single,1,Graduate,Self-Employed,Tier 2,Owned,28000,656,1,6.0,99000,852000,84,Vehicle,0.537,Rejected
+43,Female,Married,2,Graduate,Self-Employed,Tier 1,Owned,41000,741,0,10.3,127000,134000,240,Business Expansion,0.036,Approved
+40,Female,Married,2,Graduate,Self-Employed,Tier 1,Rented,72000,595,3,15.7,250000,637000,60,Debt Consolidation,0.197,Rejected
+26,Female,Married,1,Graduate,Salaried,Tier 1,Living with Parents,61000,577,1,3.0,229000,102000,60,Vehicle,0.037,Rejected
+46,Male,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,57000,622,0,12.0,161000,666000,24,Medical,0.55,Rejected
+32,Female,Married,4,Graduate,Salaried,Tier 1,Living with Parents,41000,700,0,7.0,96000,129000,36,Wedding,0.105,Approved
+32,Female,Single,1,Graduate,Salaried,Tier 3,Owned,33000,693,0,4.9,153000,624000,240,Education,0.208,Approved
+27,Female,Married,1,Graduate,Self-Employed,Tier 3,Living with Parents,57000,615,1,3.7,81000,410000,60,Medical,0.16,Approved
+38,Male,Married,1,Graduate,Salaried,Tier 1,Rented,23000,681,3,10.0,84000,532000,24,Education,1.089,Rejected
+30,Female,Married,2,Not Graduate,Self-Employed,Tier 3,Rented,59000,524,1,6.1,124000,300000,36,Travel,0.169,Rejected
+46,Female,Single,0,Not Graduate,Self-Employed,Tier 1,Living with Parents,59000,663,0,12.9,282000,120000,60,Business Expansion,0.045,Approved
+46,Female,Married,1,Graduate,Salaried,Tier 3,Owned,88000,715,2,16.6,347000,190000,48,Home Renovation,0.057,Approved
+38,Female,Single,2,Graduate,Business Owner,Tier 2,Owned,55000,604,3,5.7,90000,317000,36,Medical,0.191,Rejected
+21,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Rented,46000,693,0,0.0,165000,259000,24,Debt Consolidation,0.265,Approved
+42,Male,Married,0,Graduate,Salaried,Tier 1,Owned,17000,632,0,16.6,71000,466000,60,Vehicle,0.61,Approved
+31,Female,Single,0,Graduate,Self-Employed,Tier 3,Rented,10000,673,4,5.3,7000,121000,120,Debt Consolidation,0.174,Rejected
+24,Male,Married,1,Not Graduate,Self-Employed,Tier 1,Rented,58000,632,0,1.3,314000,663000,84,Debt Consolidation,0.202,Approved
+25,Female,Single,1,Graduate,Salaried,Tier 2,Rented,66000,640,0,2.4,95000,223000,36,Business Expansion,0.112,Approved
+36,Male,Single,0,Not Graduate,Salaried,Tier 3,Owned,26000,727,1,6.6,123000,152000,24,Vehicle,0.275,Approved
+33,Male,Married,1,Not Graduate,Salaried,Tier 3,Owned,33000,691,0,9.7,171000,299000,48,Vehicle,0.239,Approved
+29,Male,Single,1,Not Graduate,Self-Employed,Tier 2,Owned,47000,586,0,5.5,74000,167000,48,Business Expansion,0.094,Approved
+32,Female,Single,1,Not Graduate,Business Owner,Tier 1,Rented,49000,651,1,8.7,67000,318000,36,Vehicle,0.216,Approved
+37,Male,Married,0,Graduate,Business Owner,Tier 3,Rented,47000,660,2,12.8,260000,132000,60,Travel,0.062,Approved
+42,Female,Married,2,Not Graduate,Salaried,Tier 2,Rented,27000,617,0,12.0,100000,264000,60,Debt Consolidation,0.218,Rejected
+42,Male,Married,0,Not Graduate,Business Owner,Tier 1,Owned,181000,739,0,14.8,578000,256000,180,Medical,0.017,Approved
+32,Male,Single,1,Graduate,Salaried,Tier 3,Owned,14000,643,1,9.4,20000,91000,60,Medical,0.145,Approved
+42,Male,Single,0,Not Graduate,Salaried,Tier 2,Owned,122000,685,3,10.2,649000,100000,240,Travel,0.009,Approved
+21,Male,Married,2,Graduate,Self-Employed,Tier 1,Living with Parents,75000,621,1,0.0,226000,274000,36,Travel,0.121,Rejected
+30,Female,Married,2,Not Graduate,Self-Employed,Tier 1,Rented,56000,646,0,4.2,128000,117000,180,Vehicle,0.025,Approved
+27,Male,Married,1,Not Graduate,Self-Employed,Tier 1,Owned,69000,655,0,5.2,283000,122000,24,Travel,0.083,Approved
+33,Female,Married,0,Graduate,Business Owner,Tier 1,Living with Parents,54000,656,2,7.2,163000,377000,240,Medical,0.077,Approved
+21,Female,Married,2,Not Graduate,Salaried,Tier 3,Rented,40000,604,1,0.0,84000,216000,24,Home Renovation,0.254,Rejected
+21,Male,Single,2,Graduate,Business Owner,Tier 1,Rented,34000,647,0,0.0,193000,756000,24,Wedding,1.047,Rejected
+36,Male,Married,3,Not Graduate,Unemployed,Tier 2,Owned,15000,612,0,9.7,43000,81000,36,Education,0.179,Rejected
+21,Female,Married,0,Graduate,Salaried,Tier 1,Living with Parents,24000,643,0,0.0,120000,101000,84,Business Expansion,0.074,Approved
+41,Male,Married,0,Graduate,Salaried,Tier 2,Living with Parents,47000,792,0,8.8,61000,193000,36,Medical,0.136,Approved
+27,Male,Married,1,Graduate,Business Owner,Tier 1,Rented,67000,603,1,2.1,270000,534000,48,Medical,0.21,Rejected
+30,Female,Married,1,Graduate,Unemployed,Tier 1,Living with Parents,18000,564,3,7.8,102000,162000,36,Education,0.299,Rejected
+41,Female,Single,1,Not Graduate,Salaried,Tier 1,Rented,47000,711,2,10.1,56000,157000,60,Travel,0.074,Approved
+23,Female,Married,2,Not Graduate,Salaried,Tier 2,Living with Parents,39000,637,1,1.6,207000,249000,24,Business Expansion,0.301,Rejected
+25,Female,Married,3,Not Graduate,Salaried,Tier 3,Rented,17000,654,0,1.2,85000,309000,24,Education,0.856,Rejected
+35,Male,Single,3,Not Graduate,Salaried,Tier 3,Owned,54000,709,1,9.8,246000,129000,60,Vehicle,0.053,Approved
+35,Male,Married,1,Not Graduate,Business Owner,Tier 1,Living with Parents,41000,622,0,9.2,142000,460000,36,Vehicle,0.373,Approved
+35,Male,Single,4,Graduate,Business Owner,Tier 3,Rented,22000,613,0,10.0,50000,108000,84,Business Expansion,0.087,Rejected
+29,Male,Married,2,Graduate,Unemployed,Tier 1,Rented,8000,656,1,5.7,39000,261000,24,Medical,1.536,Rejected
+27,Male,Married,0,Not Graduate,Self-Employed,Tier 2,Living with Parents,80000,582,1,4.4,178000,278000,60,Business Expansion,0.077,Approved
+38,Male,Single,1,Graduate,Salaried,Tier 2,Rented,142000,715,1,8.5,150000,110000,36,Home Renovation,0.026,Approved
+45,Male,Married,0,Graduate,Self-Employed,Tier 1,Living with Parents,66000,703,0,12.1,338000,109000,24,Education,0.078,Approved
+21,Female,Single,2,Not Graduate,Business Owner,Tier 1,Rented,73000,590,0,0.0,343000,302000,12,Medical,0.368,Rejected
+24,Male,Married,0,Graduate,Salaried,Tier 1,Living with Parents,32000,613,1,1.7,145000,218000,60,Travel,0.152,Approved
+33,Male,Single,2,Not Graduate,Salaried,Tier 1,Rented,27000,631,1,10.2,148000,111000,84,Medical,0.073,Rejected
+40,Male,Married,0,Graduate,Salaried,Tier 1,Rented,30000,671,0,14.0,120000,112000,60,Medical,0.083,Approved
+30,Male,Married,1,Graduate,Salaried,Tier 3,Living with Parents,38000,625,0,7.7,84000,224000,48,Business Expansion,0.155,Approved
+28,Female,Married,1,Not Graduate,Salaried,Tier 1,Owned,43000,643,2,2.7,26000,455000,120,Medical,0.152,Approved
+36,Female,Married,1,Graduate,Salaried,Tier 2,Owned,36000,752,0,6.8,40000,651000,180,Home Renovation,0.217,Approved
+30,Male,Single,2,Graduate,Salaried,Tier 3,Rented,22000,705,0,3.2,37000,459000,84,Travel,0.368,Rejected
+28,Male,Single,0,Not Graduate,Self-Employed,Tier 2,Owned,41000,662,0,4.2,75000,197000,120,Education,0.069,Approved
+38,Female,Married,2,Not Graduate,Self-Employed,Tier 3,Owned,40000,629,2,12.8,187000,181000,24,Debt Consolidation,0.213,Rejected
+41,Male,Single,2,Graduate,Salaried,Tier 2,Living with Parents,20000,720,4,10.8,92000,93000,120,Medical,0.067,Rejected
+30,Female,Single,2,Graduate,Salaried,Tier 1,Rented,83000,592,0,4.4,391000,171000,60,Medical,0.046,Approved
+30,Male,Single,0,Graduate,Business Owner,Tier 1,Owned,95000,660,0,5.4,302000,215000,36,Business Expansion,0.075,Approved
+45,Female,Married,1,Not Graduate,Salaried,Tier 3,Rented,30000,692,0,15.0,92000,101000,84,Travel,0.059,Approved
+37,Male,Single,0,Graduate,Self-Employed,Tier 1,Owned,37000,575,3,13.7,58000,96000,36,Medical,0.086,Rejected
+32,Male,Married,2,Graduate,Salaried,Tier 3,Living with Parents,20000,741,5,3.5,83000,147000,60,Debt Consolidation,0.163,Rejected
+34,Male,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,53000,680,0,8.5,157000,482000,36,Wedding,0.302,Approved
+24,Female,Married,2,Graduate,Business Owner,Tier 2,Living with Parents,32000,595,3,2.6,130000,547000,240,Travel,0.188,Rejected
+21,Male,Single,1,Not Graduate,Salaried,Tier 3,Living with Parents,8000,659,0,0.0,11000,217000,240,Travel,0.299,Rejected
+37,Female,Married,2,Graduate,Self-Employed,Tier 1,Rented,19000,657,0,8.3,98000,534000,48,Home Renovation,0.74,Rejected
+24,Female,Single,2,Not Graduate,Business Owner,Tier 1,Owned,62000,732,0,2.1,125000,62000,240,Education,0.011,Approved
+31,Male,Married,1,Graduate,Salaried,Tier 1,Owned,46000,670,1,7.2,145000,216000,84,Home Renovation,0.083,Approved
+21,Male,Married,0,Graduate,Business Owner,Tier 2,Owned,33000,596,3,0.0,44000,73000,24,Debt Consolidation,0.104,Rejected
+55,Female,Married,5,Not Graduate,Unemployed,Tier 1,Rented,19000,606,3,22.5,100000,120000,120,Education,0.091,Rejected
+25,Female,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,30000,594,3,2.2,60000,216000,180,Vehicle,0.086,Rejected
+32,Male,Married,1,Not Graduate,Salaried,Tier 3,Owned,45000,711,2,4.4,174000,81000,240,Business Expansion,0.02,Approved
+42,Female,Married,2,Not Graduate,Salaried,Tier 1,Rented,104000,648,1,17.4,545000,240000,36,Home Renovation,0.077,Approved
+48,Female,Married,0,Not Graduate,Self-Employed,Tier 2,Owned,18000,713,4,15.7,63000,838000,60,Vehicle,1.036,Rejected
+34,Male,Married,0,Not Graduate,Salaried,Tier 2,Rented,36000,697,3,8.7,21000,91000,180,Travel,0.03,Approved
+34,Female,Married,2,Not Graduate,Self-Employed,Tier 2,Living with Parents,16000,670,0,6.8,42000,137000,60,Debt Consolidation,0.19,Rejected
+23,Male,Married,2,Graduate,Salaried,Tier 2,Rented,11000,659,1,1.1,40000,406000,180,Debt Consolidation,0.443,Rejected
+30,Male,Single,0,Graduate,Salaried,Tier 2,Living with Parents,69000,735,0,6.2,168000,174000,120,Travel,0.036,Approved
+29,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Rented,63000,552,0,2.6,303000,573000,48,Debt Consolidation,0.24,Rejected
+41,Male,Married,1,Not Graduate,Salaried,Tier 2,Owned,85000,692,2,11.5,314000,429000,36,Medical,0.168,Approved
+36,Female,Single,2,Graduate,Salaried,Tier 2,Owned,16000,638,1,8.9,73000,121000,36,Vehicle,0.251,Rejected
+40,Male,Married,1,Graduate,Salaried,Tier 1,Owned,36000,710,3,16.4,187000,253000,84,Home Renovation,0.124,Approved
+37,Male,Single,1,Graduate,Salaried,Tier 2,Owned,46000,648,2,13.0,215000,268000,36,Vehicle,0.194,Approved
+50,Male,Single,2,Graduate,Business Owner,Tier 1,Owned,67000,752,0,15.9,374000,77000,36,Vehicle,0.038,Approved
+23,Male,Single,1,Graduate,Self-Employed,Tier 2,Owned,29000,586,0,1.0,67000,222000,36,Home Renovation,0.254,Rejected
+49,Male,Single,5,Graduate,Salaried,Tier 2,Rented,46000,758,1,20.3,139000,128000,48,Debt Consolidation,0.073,Approved
+33,Female,Single,1,Not Graduate,Salaried,Tier 3,Rented,32000,694,0,4.9,59000,127000,36,Medical,0.132,Approved
+34,Male,Married,1,Graduate,Salaried,Tier 1,Rented,15000,620,0,9.2,19000,547000,24,Business Expansion,1.717,Rejected
+21,Male,Single,1,Graduate,Salaried,Tier 1,Owned,21000,617,5,0.0,103000,248000,12,Medical,1.049,Rejected
+34,Male,Married,2,Graduate,Salaried,Tier 2,Owned,16000,641,0,4.6,95000,214000,36,Debt Consolidation,0.444,Rejected
+65,Female,Single,2,Graduate,Salaried,Tier 1,Owned,30000,776,1,16.7,135000,231000,180,Education,0.092,Approved
+52,Male,Single,0,Not Graduate,Business Owner,Tier 2,Owned,36000,639,0,21.4,59000,208000,60,Education,0.129,Approved
+38,Male,Single,3,Graduate,Salaried,Tier 1,Owned,49000,668,3,10.4,253000,141000,48,Home Renovation,0.076,Approved
+50,Female,Single,0,Graduate,Business Owner,Tier 1,Rented,66000,744,2,16.6,175000,287000,24,Debt Consolidation,0.205,Approved
+37,Female,Single,1,Not Graduate,Salaried,Tier 1,Owned,45000,729,2,11.4,53000,103000,240,Education,0.025,Approved
+41,Male,Married,3,Not Graduate,Salaried,Tier 2,Rented,34000,647,0,6.2,103000,125000,24,Wedding,0.173,Rejected
+48,Male,Married,0,Graduate,Salaried,Tier 1,Owned,40000,725,1,12.5,54000,274000,84,Medical,0.121,Approved
+29,Male,Married,1,Not Graduate,Unemployed,Tier 1,Rented,8000,600,2,3.4,38000,174000,240,Vehicle,0.239,Rejected
+41,Female,Single,3,Graduate,Salaried,Tier 1,Living with Parents,58000,722,1,10.2,65000,262000,120,Debt Consolidation,0.065,Approved
+36,Female,Single,1,Not Graduate,Salaried,Tier 3,Owned,35000,647,1,12.8,60000,48000,36,Wedding,0.046,Approved
+44,Male,Single,3,Not Graduate,Self-Employed,Tier 1,Rented,43000,763,0,10.9,82000,762000,60,Vehicle,0.394,Approved
+53,Male,Single,0,Not Graduate,Self-Employed,Tier 2,Living with Parents,44000,764,0,22.4,260000,156000,60,Wedding,0.079,Approved
+36,Female,Married,2,Not Graduate,Self-Employed,Tier 1,Owned,41000,693,0,9.1,63000,336000,120,Debt Consolidation,0.118,Approved
+30,Male,Single,1,Not Graduate,Self-Employed,Tier 2,Owned,40000,612,0,3.0,195000,398000,36,Home Renovation,0.33,Rejected
+32,Female,Single,0,Not Graduate,Self-Employed,Tier 2,Living with Parents,36000,681,3,4.4,106000,164000,36,Business Expansion,0.151,Rejected
+26,Male,Married,3,Graduate,Salaried,Tier 1,Owned,107000,650,1,3.1,388000,185000,60,Vehicle,0.038,Approved
+30,Male,Married,4,Graduate,Salaried,Tier 2,Rented,19000,694,1,3.2,66000,221000,36,Debt Consolidation,0.386,Approved
+31,Male,Married,2,Not Graduate,Self-Employed,Tier 1,Owned,46000,592,1,4.6,267000,478000,48,Business Expansion,0.274,Rejected
+33,Female,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,37000,682,1,7.5,68000,184000,60,Debt Consolidation,0.111,Approved
+40,Male,Single,0,Not Graduate,Salaried,Tier 2,Owned,39000,761,1,14.2,61000,165000,24,Medical,0.199,Approved
+31,Male,Single,1,Graduate,Self-Employed,Tier 2,Living with Parents,27000,594,0,4.6,91000,294000,60,Home Renovation,0.242,Approved
+30,Male,Married,2,Graduate,Self-Employed,Tier 1,Owned,87000,685,0,5.2,271000,310000,120,Home Renovation,0.051,Approved
+36,Female,Married,2,Not Graduate,Self-Employed,Tier 1,Rented,40000,664,2,8.4,24000,255000,12,Medical,0.566,Rejected
+46,Female,Married,0,Graduate,Salaried,Tier 2,Rented,25000,706,1,11.0,59000,234000,36,Medical,0.311,Approved
+25,Male,Single,1,Graduate,Salaried,Tier 2,Rented,12000,641,0,2.9,53000,356000,60,Home Renovation,0.66,Rejected
+44,Female,Married,0,Not Graduate,Salaried,Tier 2,Rented,30000,765,1,7.5,71000,343000,12,Wedding,1.016,Approved
+37,Male,Single,1,Graduate,Salaried,Tier 1,Living with Parents,55000,632,0,12.2,191000,432000,24,Vehicle,0.37,Approved
+32,Male,Married,1,Graduate,Salaried,Tier 3,Living with Parents,49000,647,1,5.0,67000,165000,48,Travel,0.089,Approved
+38,Male,Single,4,Not Graduate,Salaried,Tier 2,Rented,137000,681,0,13.0,729000,252000,60,Medical,0.041,Approved
+35,Male,Married,1,Graduate,Salaried,Tier 2,Rented,45000,710,1,7.5,234000,185000,84,Medical,0.073,Approved
+34,Male,Single,0,Graduate,Salaried,Tier 1,Living with Parents,17000,576,0,5.8,52000,95000,60,Debt Consolidation,0.124,Rejected
+43,Male,Single,0,Graduate,Business Owner,Tier 3,Rented,48000,713,0,17.5,273000,286000,60,Education,0.133,Approved
+32,Female,Married,0,Graduate,Salaried,Tier 2,Owned,45000,614,0,9.9,202000,295000,12,Education,0.582,Rejected
+33,Male,Single,4,Graduate,Salaried,Tier 3,Owned,43000,633,0,4.3,244000,156000,36,Wedding,0.12,Approved
+34,Female,Married,2,Graduate,Unemployed,Tier 3,Rented,8000,488,2,4.5,12000,382000,24,Travel,2.248,Rejected
+25,Female,Married,1,Graduate,Business Owner,Tier 3,Rented,109000,646,0,3.6,634000,200000,84,Education,0.032,Approved
+29,Female,Single,0,Not Graduate,Salaried,Tier 2,Rented,33000,664,0,5.2,147000,259000,48,Vehicle,0.207,Approved
+36,Female,Single,3,Graduate,Salaried,Tier 3,Living with Parents,20000,670,0,8.0,12000,283000,24,Education,0.666,Rejected
+21,Male,Married,1,Not Graduate,Business Owner,Tier 2,Rented,73000,616,1,0.0,420000,727000,84,Home Renovation,0.176,Rejected
+40,Female,Married,1,Graduate,Salaried,Tier 1,Rented,44000,729,3,14.2,179000,138000,240,Wedding,0.035,Approved
+36,Female,Single,0,Graduate,Business Owner,Tier 2,Rented,109000,725,0,7.7,200000,373000,84,Business Expansion,0.06,Approved
+34,Female,Single,2,Not Graduate,Unemployed,Tier 1,Rented,33000,573,2,10.8,176000,254000,48,Travel,0.203,Rejected
+43,Female,Married,2,Graduate,Business Owner,Tier 3,Owned,116000,743,0,8.8,380000,228000,240,Travel,0.022,Approved
+41,Male,Married,0,Not Graduate,Self-Employed,Tier 1,Owned,48000,755,3,6.9,52000,390000,120,Debt Consolidation,0.117,Approved
+24,Female,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,88000,565,2,1.6,479000,136000,48,Home Renovation,0.041,Rejected
+21,Female,Married,1,Graduate,Self-Employed,Tier 3,Rented,28000,631,1,0.0,50000,589000,24,Education,0.99,Rejected
+34,Female,Single,1,Graduate,Salaried,Tier 2,Rented,38000,644,2,7.0,199000,382000,12,Debt Consolidation,0.893,Rejected
+34,Female,Single,2,Graduate,Business Owner,Tier 2,Owned,43000,668,1,9.5,209000,505000,180,Debt Consolidation,0.141,Approved
+25,Male,Married,0,Graduate,Self-Employed,Tier 2,Owned,21000,638,1,1.2,66000,291000,60,Debt Consolidation,0.308,Approved
+25,Female,Married,0,Graduate,Salaried,Tier 3,Living with Parents,38000,619,0,1.3,27000,130000,84,Travel,0.06,Approved
+41,Male,Single,1,Not Graduate,Business Owner,Tier 2,Rented,121000,806,1,10.6,69000,240000,240,Wedding,0.022,Approved
+21,Female,Married,2,Not Graduate,Salaried,Tier 1,Living with Parents,39000,562,1,0.0,20000,435000,60,Debt Consolidation,0.248,Rejected
+22,Male,Single,1,Graduate,Business Owner,Tier 1,Owned,159000,708,1,0.6,583000,223000,36,Debt Consolidation,0.047,Approved
+39,Male,Married,3,Not Graduate,Unemployed,Tier 3,Rented,12000,668,1,5.9,57000,71000,84,Home Renovation,0.104,Rejected
+42,Male,Married,2,Graduate,Business Owner,Tier 3,Rented,125000,709,1,8.0,626000,472000,60,Debt Consolidation,0.084,Approved
+38,Male,Single,1,Graduate,Business Owner,Tier 2,Living with Parents,21000,564,0,6.7,99000,238000,24,Business Expansion,0.533,Rejected
+44,Female,Single,0,Not Graduate,Self-Employed,Tier 2,Owned,23000,727,2,8.4,71000,283000,60,Vehicle,0.274,Approved
+37,Female,Married,0,Graduate,Self-Employed,Tier 1,Rented,51000,672,1,7.9,184000,165000,36,Home Renovation,0.107,Approved
+42,Female,Single,1,Not Graduate,Salaried,Tier 2,Rented,55000,655,1,14.6,317000,402000,24,Education,0.344,Approved
+55,Male,Married,2,Graduate,Salaried,Tier 2,Owned,39000,626,0,14.6,144000,213000,60,Debt Consolidation,0.121,Approved
+27,Male,Single,1,Not Graduate,Business Owner,Tier 3,Rented,45000,666,2,3.4,190000,296000,60,Business Expansion,0.146,Rejected
+25,Male,Single,0,Graduate,Unemployed,Tier 2,Owned,21000,648,2,1.3,96000,307000,84,Education,0.258,Rejected
+25,Female,Single,2,Graduate,Unemployed,Tier 1,Owned,14000,635,0,2.1,68000,176000,60,Education,0.28,Rejected
+36,Male,Married,2,Graduate,Salaried,Tier 3,Owned,12000,619,0,10.0,66000,211000,84,Education,0.31,Rejected
+35,Female,Married,1,Graduate,Salaried,Tier 1,Rented,51000,653,1,5.0,111000,195000,240,Business Expansion,0.042,Approved
+35,Female,Married,0,Not Graduate,Salaried,Tier 1,Rented,58000,731,2,11.0,183000,327000,84,Medical,0.1,Approved
+34,Male,Married,1,Not Graduate,Unemployed,Tier 3,Living with Parents,8000,536,1,5.5,42000,222000,240,Travel,0.306,Rejected
+45,Female,Married,1,Graduate,Salaried,Tier 3,Rented,186000,667,0,9.4,113000,288000,240,Home Renovation,0.017,Approved
+43,Female,Single,2,Graduate,Self-Employed,Tier 1,Owned,44000,718,1,13.7,106000,372000,240,Travel,0.093,Approved
+43,Male,Married,0,Not Graduate,Unemployed,Tier 2,Rented,12000,644,1,12.6,38000,321000,60,Education,0.595,Rejected
+44,Male,Married,1,Graduate,Salaried,Tier 1,Owned,31000,775,1,14.2,132000,152000,48,Wedding,0.129,Approved
+23,Female,Single,0,Graduate,Business Owner,Tier 1,Rented,79000,614,2,1.2,71000,246000,60,Wedding,0.069,Approved
+41,Female,Single,0,Graduate,Salaried,Tier 2,Owned,27000,701,3,6.8,62000,745000,120,Business Expansion,0.396,Approved
+40,Male,Married,2,Not Graduate,Salaried,Tier 3,Owned,31000,683,0,12.3,149000,254000,84,Wedding,0.145,Approved
+26,Female,Married,1,Graduate,Business Owner,Tier 1,Living with Parents,45000,661,2,1.8,60000,398000,120,Education,0.127,Rejected
+41,Female,Single,2,Graduate,Self-Employed,Tier 1,Living with Parents,54000,708,0,10.4,42000,36000,240,Business Expansion,0.007,Approved
+21,Male,Married,1,Not Graduate,Business Owner,Tier 1,Rented,65000,719,0,0.0,350000,97000,48,Travel,0.039,Approved
+41,Female,Married,2,Not Graduate,Self-Employed,Tier 2,Rented,57000,717,2,11.4,206000,145000,48,Education,0.067,Approved
+41,Male,Married,1,Not Graduate,Self-Employed,Tier 2,Rented,66000,709,0,10.9,207000,222000,180,Medical,0.04,Approved
+30,Male,Single,1,Graduate,Business Owner,Tier 2,Rented,61000,609,1,6.4,99000,174000,36,Debt Consolidation,0.095,Approved
+33,Male,Single,1,Graduate,Salaried,Tier 3,Living with Parents,42000,692,0,7.9,43000,243000,36,Debt Consolidation,0.192,Approved
+33,Male,Married,3,Graduate,Self-Employed,Tier 2,Owned,36000,675,0,4.5,199000,286000,240,Vehicle,0.087,Approved
+40,Female,Married,1,Graduate,Salaried,Tier 3,Rented,63000,718,2,12.6,373000,180000,36,Education,0.095,Approved
+21,Female,Married,3,Not Graduate,Salaried,Tier 1,Living with Parents,75000,580,1,0.0,264000,269000,48,Education,0.094,Approved
+42,Male,Married,0,Graduate,Salaried,Tier 1,Rented,219000,808,0,8.7,450000,165000,180,Travel,0.009,Approved
+42,Male,Single,2,Graduate,Self-Employed,Tier 1,Owned,11000,678,0,15.9,55000,134000,24,Wedding,0.573,Rejected
+23,Female,Single,3,Not Graduate,Unemployed,Tier 3,Living with Parents,8000,487,0,1.1,37000,327000,240,Travel,0.45,Rejected
+26,Male,Married,0,Graduate,Salaried,Tier 1,Rented,117000,585,0,2.1,446000,209000,84,Travel,0.032,Approved
+35,Male,Married,5,Graduate,Salaried,Tier 2,Rented,36000,637,0,6.3,24000,140000,84,Home Renovation,0.069,Approved
+27,Female,Married,4,Not Graduate,Salaried,Tier 1,Owned,39000,626,1,3.3,154000,345000,24,Medical,0.416,Rejected
+32,Female,Married,2,Not Graduate,Business Owner,Tier 3,Rented,63000,678,3,5.6,134000,291000,48,Vehicle,0.122,Rejected
+46,Male,Married,0,Not Graduate,Business Owner,Tier 2,Living with Parents,30000,699,0,12.8,146000,71000,84,Home Renovation,0.042,Approved
+42,Female,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,53000,634,0,17.0,184000,292000,84,Debt Consolidation,0.097,Approved
+28,Female,Single,2,Graduate,Self-Employed,Tier 2,Rented,48000,698,0,3.9,244000,115000,36,Wedding,0.08,Approved
+34,Female,Married,2,Not Graduate,Salaried,Tier 1,Owned,33000,635,0,5.7,58000,362000,12,Medical,0.975,Rejected
+31,Male,Single,1,Graduate,Salaried,Tier 1,Living with Parents,91000,605,1,6.6,419000,251000,84,Wedding,0.049,Approved
+33,Male,Single,2,Not Graduate,Business Owner,Tier 3,Owned,42000,685,0,9.8,249000,156000,12,Education,0.33,Approved
+43,Male,Married,2,Not Graduate,Business Owner,Tier 2,Rented,57000,755,1,8.7,151000,110000,84,Home Renovation,0.034,Approved
+21,Male,Single,1,Not Graduate,Unemployed,Tier 2,Rented,15000,527,1,0.0,26000,94000,24,Business Expansion,0.295,Rejected
+62,Male,Single,1,Not Graduate,Salaried,Tier 2,Owned,55000,768,1,35.0,250000,657000,60,Travel,0.266,Approved
+48,Female,Married,1,Graduate,Self-Employed,Tier 1,Rented,72000,695,1,19.8,185000,353000,60,Wedding,0.109,Approved
+44,Male,Married,0,Graduate,Self-Employed,Tier 1,Rented,50000,710,0,7.3,103000,59000,120,Education,0.017,Approved
+30,Male,Married,1,Graduate,Salaried,Tier 1,Owned,62000,799,0,8.1,247000,254000,36,Education,0.136,Approved
+37,Male,Single,1,Not Graduate,Business Owner,Tier 1,Owned,59000,629,0,13.8,114000,427000,24,Business Expansion,0.341,Approved
+38,Male,Married,0,Not Graduate,Business Owner,Tier 1,Rented,49000,676,1,6.8,287000,86000,60,Vehicle,0.039,Approved
+29,Male,Single,2,Graduate,Salaried,Tier 2,Owned,81000,688,2,6.4,438000,393000,240,Education,0.053,Approved
+27,Male,Married,1,Not Graduate,Self-Employed,Tier 2,Living with Parents,89000,547,0,3.2,139000,237000,84,Travel,0.047,Rejected
+23,Male,Married,2,Graduate,Salaried,Tier 2,Owned,52000,667,0,1.6,72000,189000,12,Debt Consolidation,0.323,Approved
+52,Male,Single,0,Graduate,Salaried,Tier 2,Rented,53000,769,1,19.3,131000,131000,120,Medical,0.035,Approved
+25,Female,Married,4,Graduate,Business Owner,Tier 2,Owned,119000,607,2,3.2,555000,209000,36,Vehicle,0.058,Approved
+21,Male,Married,1,Graduate,Unemployed,Tier 1,Owned,8000,474,0,0.0,9000,226000,36,Education,0.938,Rejected
+33,Male,Single,2,Graduate,Salaried,Tier 1,Living with Parents,45000,630,1,8.1,201000,184000,36,Home Renovation,0.136,Approved
+32,Male,Married,2,Graduate,Business Owner,Tier 2,Owned,99000,640,1,6.1,356000,452000,180,Medical,0.055,Approved
+22,Male,Single,0,Graduate,Self-Employed,Tier 2,Owned,30000,644,1,0.6,159000,383000,48,Medical,0.336,Rejected
+36,Male,Married,2,Graduate,Business Owner,Tier 1,Living with Parents,90000,700,0,10.1,217000,203000,120,Wedding,0.032,Approved
+47,Male,Single,0,Graduate,Salaried,Tier 3,Living with Parents,43000,670,1,23.3,118000,267000,60,Debt Consolidation,0.138,Approved
+37,Male,Married,2,Graduate,Salaried,Tier 3,Rented,20000,667,2,9.6,82000,159000,120,Medical,0.114,Rejected
+34,Female,Single,0,Graduate,Salaried,Tier 2,Rented,80000,690,3,8.5,247000,173000,24,Travel,0.102,Approved
+30,Male,Married,0,Graduate,Salaried,Tier 2,Owned,70000,593,0,6.3,56000,252000,12,Debt Consolidation,0.32,Approved
+43,Male,Single,4,Not Graduate,Salaried,Tier 1,Living with Parents,54000,699,2,18.1,169000,179000,24,Debt Consolidation,0.156,Approved
+35,Male,Single,3,Not Graduate,Unemployed,Tier 1,Rented,13000,519,0,7.5,16000,240000,60,Education,0.411,Rejected
+37,Female,Married,3,Graduate,Salaried,Tier 2,Rented,65000,701,0,8.6,354000,246000,60,Medical,0.084,Approved
+41,Female,Married,1,Not Graduate,Salaried,Tier 2,Rented,33000,742,0,14.5,187000,374000,240,Wedding,0.125,Approved
+21,Female,Married,3,Not Graduate,Self-Employed,Tier 2,Owned,37000,554,1,0.0,61000,99000,180,Business Expansion,0.032,Rejected
+21,Male,Married,2,Graduate,Salaried,Tier 2,Rented,56000,608,0,0.0,196000,531000,12,Education,0.842,Rejected
+39,Male,Single,0,Not Graduate,Business Owner,Tier 2,Living with Parents,80000,629,0,13.4,48000,141000,36,Wedding,0.059,Approved
+21,Male,Single,1,Graduate,Self-Employed,Tier 3,Owned,45000,620,0,0.0,86000,57000,240,Wedding,0.014,Approved
+36,Male,Married,1,Not Graduate,Salaried,Tier 3,Owned,44000,681,0,6.2,79000,262000,120,Education,0.085,Approved
+42,Male,Married,1,Graduate,Salaried,Tier 2,Owned,21000,650,3,15.7,72000,80000,24,Home Renovation,0.179,Approved
+35,Male,Single,0,Graduate,Salaried,Tier 3,Rented,36000,704,1,8.0,70000,285000,60,Debt Consolidation,0.176,Approved
+39,Female,Married,1,Not Graduate,Salaried,Tier 2,Rented,42000,689,0,9.7,239000,159000,240,Vehicle,0.042,Approved
+43,Female,Single,0,Graduate,Salaried,Tier 1,Owned,78000,725,0,18.2,251000,131000,60,Debt Consolidation,0.037,Approved
+38,Female,Single,0,Not Graduate,Self-Employed,Tier 2,Living with Parents,53000,702,1,13.4,251000,492000,60,Travel,0.206,Approved
+53,Male,Single,1,Graduate,Salaried,Tier 1,Owned,37000,713,2,24.4,187000,194000,48,Business Expansion,0.138,Approved
+38,Male,Married,2,Graduate,Self-Employed,Tier 2,Rented,17000,676,0,11.4,55000,454000,12,Debt Consolidation,2.373,Rejected
+23,Male,Married,1,Graduate,Salaried,Tier 2,Rented,34000,632,1,1.6,194000,328000,12,Education,0.857,Rejected
+25,Male,Single,1,Not Graduate,Unemployed,Tier 2,Rented,24000,536,1,2.6,90000,94000,48,Debt Consolidation,0.103,Rejected
+29,Female,Married,1,Graduate,Salaried,Tier 3,Living with Parents,35000,706,1,3.1,204000,202000,36,Home Renovation,0.192,Rejected
+45,Male,Married,1,Not Graduate,Self-Employed,Tier 2,Living with Parents,50000,729,1,13.3,222000,327000,36,Debt Consolidation,0.217,Approved
+22,Female,Married,0,Graduate,Salaried,Tier 1,Living with Parents,24000,700,0,0.7,26000,331000,36,Debt Consolidation,0.458,Approved
+38,Male,Married,1,Graduate,Self-Employed,Tier 3,Rented,52000,674,0,11.6,84000,205000,24,Vehicle,0.186,Approved
+30,Male,Single,1,Graduate,Business Owner,Tier 2,Rented,127000,678,0,7.6,135000,95000,180,Debt Consolidation,0.009,Approved
+34,Male,Single,1,Graduate,Salaried,Tier 3,Living with Parents,14000,576,1,9.4,73000,134000,48,Business Expansion,0.252,Rejected
+48,Male,Married,1,Graduate,Salaried,Tier 3,Rented,41000,699,3,21.3,74000,75000,24,Vehicle,0.086,Approved
+52,Female,Single,1,Graduate,Salaried,Tier 2,Rented,34000,649,1,11.1,200000,204000,36,Education,0.199,Approved
+31,Female,Married,1,Not Graduate,Business Owner,Tier 2,Living with Parents,25000,593,0,5.1,83000,405000,12,Education,1.439,Rejected
+32,Female,Married,3,Graduate,Salaried,Tier 2,Owned,60000,637,0,4.4,282000,148000,36,Medical,0.082,Approved
+38,Male,Married,0,Graduate,Salaried,Tier 1,Living with Parents,53000,672,1,7.0,233000,275000,12,Vehicle,0.461,Approved
+37,Female,Single,1,Not Graduate,Salaried,Tier 2,Owned,34000,642,1,11.8,124000,63000,60,Business Expansion,0.041,Approved
+35,Female,Single,1,Graduate,Unemployed,Tier 1,Rented,12000,610,2,5.7,50000,213000,24,Home Renovation,0.836,Rejected
+37,Female,Married,0,Not Graduate,Business Owner,Tier 3,Owned,51000,775,1,14.2,296000,181000,24,Vehicle,0.167,Approved
+34,Male,Single,1,Not Graduate,Salaried,Tier 2,Living with Parents,36000,657,0,11.5,154000,94000,60,Debt Consolidation,0.058,Approved
+52,Female,Married,1,Graduate,Business Owner,Tier 3,Rented,102000,756,2,20.4,598000,213000,12,Vehicle,0.186,Approved
+21,Male,Married,0,Graduate,Salaried,Tier 1,Rented,24000,662,1,0.0,90000,236000,84,Home Renovation,0.174,Rejected
+33,Male,Married,5,Graduate,Self-Employed,Tier 1,Owned,35000,616,1,8.2,55000,199000,24,Travel,0.268,Rejected
+30,Male,Married,2,Not Graduate,Business Owner,Tier 2,Living with Parents,48000,580,1,5.2,158000,301000,48,Business Expansion,0.165,Rejected
+45,Female,Married,3,Not Graduate,Business Owner,Tier 2,Rented,56000,703,1,9.1,129000,361000,24,Wedding,0.303,Approved
+55,Male,Married,1,Graduate,Self-Employed,Tier 1,Owned,33000,685,2,29.8,97000,185000,36,Medical,0.186,Approved
+38,Female,Married,4,Not Graduate,Salaried,Tier 1,Rented,70000,722,1,8.0,147000,84000,240,Home Renovation,0.013,Approved
+32,Female,Married,2,Graduate,Salaried,Tier 2,Living with Parents,32000,638,1,4.1,41000,125000,180,Home Renovation,0.047,Approved
+37,Male,Married,0,Not Graduate,Salaried,Tier 3,Rented,27000,672,0,13.9,146000,473000,180,Vehicle,0.21,Approved
+27,Female,Single,2,Not Graduate,Salaried,Tier 3,Living with Parents,67000,693,0,3.8,177000,145000,180,Wedding,0.026,Approved
+28,Female,Married,2,Graduate,Self-Employed,Tier 1,Owned,57000,621,0,6.0,164000,458000,48,Home Renovation,0.212,Rejected
+30,Female,Married,0,Graduate,Salaried,Tier 1,Living with Parents,35000,641,1,7.3,154000,142000,36,Medical,0.135,Approved
+58,Male,Married,1,Graduate,Self-Employed,Tier 1,Owned,117000,751,0,14.4,195000,288000,24,Education,0.116,Approved
+31,Male,Single,2,Graduate,Salaried,Tier 2,Rented,87000,688,0,6.6,349000,200000,60,Debt Consolidation,0.051,Approved
+28,Female,Single,5,Graduate,Salaried,Tier 2,Owned,65000,610,0,2.5,293000,132000,36,Medical,0.067,Rejected
+27,Female,Married,0,Not Graduate,Salaried,Tier 3,Rented,44000,647,1,4.7,206000,339000,240,Vehicle,0.085,Approved
+29,Female,Single,0,Graduate,Business Owner,Tier 2,Owned,36000,681,2,6.0,85000,841000,12,Education,2.076,Rejected
+36,Male,Married,3,Graduate,Unemployed,Tier 1,Rented,17000,595,1,11.6,85000,129000,36,Home Renovation,0.252,Rejected
+39,Male,Married,0,Graduate,Self-Employed,Tier 1,Rented,52000,715,1,16.1,38000,110000,48,Travel,0.056,Approved
+44,Male,Married,2,Graduate,Salaried,Tier 1,Owned,29000,653,0,13.7,29000,151000,120,Medical,0.075,Approved
+27,Female,Single,1,Graduate,Business Owner,Tier 3,Rented,39000,662,1,5.3,205000,547000,180,Vehicle,0.168,Approved
+36,Male,Single,2,Graduate,Business Owner,Tier 1,Owned,30000,743,1,12.7,82000,221000,48,Education,0.194,Approved
+21,Female,Married,0,Graduate,Unemployed,Tier 3,Rented,8000,529,0,0.0,44000,348000,36,Home Renovation,1.445,Rejected
+46,Male,Single,2,Graduate,Self-Employed,Tier 3,Owned,21000,755,1,20.3,54000,203000,60,Vehicle,0.215,Approved
+41,Male,Single,0,Graduate,Salaried,Tier 1,Rented,29000,600,1,16.2,166000,301000,60,Vehicle,0.231,Rejected
+43,Female,Single,2,Graduate,Self-Employed,Tier 1,Rented,46000,809,2,11.8,136000,237000,84,Wedding,0.091,Approved
+23,Male,Married,2,Graduate,Business Owner,Tier 1,Rented,95000,753,1,0.9,293000,369000,12,Business Expansion,0.345,Approved
+30,Male,Single,2,Graduate,Salaried,Tier 2,Owned,48000,686,0,3.6,281000,181000,240,Wedding,0.042,Approved
+37,Female,Married,2,Graduate,Salaried,Tier 1,Rented,208000,753,0,13.6,511000,116000,180,Medical,0.007,Approved
+41,Male,Single,1,Graduate,Salaried,Tier 2,Rented,100000,745,1,16.2,134000,503000,240,Vehicle,0.055,Approved
+46,Male,Married,0,Not Graduate,Salaried,Tier 2,Owned,38000,795,1,8.9,168000,429000,60,Medical,0.251,Approved
+33,Male,Married,1,Not Graduate,Unemployed,Tier 1,Owned,15000,608,0,10.1,83000,132000,48,Business Expansion,0.232,Rejected
+51,Female,Single,0,Not Graduate,Salaried,Tier 1,Owned,53000,735,0,14.5,159000,259000,60,Medical,0.109,Approved
+33,Female,Single,2,Graduate,Salaried,Tier 1,Owned,119000,661,2,8.1,675000,206000,24,Travel,0.081,Approved
+38,Female,Married,0,Graduate,Salaried,Tier 1,Rented,108000,685,1,14.9,246000,247000,180,Wedding,0.027,Approved
+36,Male,Married,4,Graduate,Salaried,Tier 1,Rented,114000,602,2,8.2,254000,722000,24,Debt Consolidation,0.298,Approved
+40,Male,Married,0,Not Graduate,Salaried,Tier 2,Living with Parents,60000,735,2,15.7,214000,108000,240,Vehicle,0.02,Approved
+50,Female,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,20000,662,1,15.6,96000,142000,36,Wedding,0.236,Approved
+36,Female,Single,2,Graduate,Business Owner,Tier 3,Living with Parents,27000,710,0,10.4,143000,104000,84,Travel,0.068,Approved
+34,Male,Single,0,Graduate,Unemployed,Tier 2,Living with Parents,13000,618,0,7.1,42000,456000,36,Home Renovation,1.165,Rejected
+49,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Owned,38000,644,2,21.2,217000,420000,84,Debt Consolidation,0.195,Approved
+23,Female,Single,1,Not Graduate,Salaried,Tier 3,Rented,34000,636,1,1.4,173000,362000,60,Vehicle,0.237,Rejected
+43,Male,Married,5,Graduate,Salaried,Tier 2,Owned,61000,671,0,12.1,225000,155000,60,Travel,0.057,Approved
+21,Female,Single,2,Graduate,Unemployed,Tier 2,Owned,8000,510,0,0.0,36000,223000,180,Medical,0.335,Rejected
+21,Male,Married,0,Graduate,Self-Employed,Tier 3,Rented,45000,566,1,0.0,175000,481000,84,Medical,0.189,Rejected
+39,Male,Single,0,Graduate,Salaried,Tier 2,Rented,64000,629,1,6.9,275000,172000,48,Home Renovation,0.071,Approved
+26,Male,Married,1,Not Graduate,Salaried,Tier 1,Rented,59000,644,1,3.6,139000,330000,36,Wedding,0.186,Approved
+43,Female,Married,1,Not Graduate,Self-Employed,Tier 1,Rented,38000,625,0,12.1,23000,236000,24,Medical,0.292,Rejected
+29,Male,Single,0,Graduate,Self-Employed,Tier 3,Rented,47000,673,1,6.3,63000,306000,84,Debt Consolidation,0.115,Approved
+52,Female,Married,2,Graduate,Salaried,Tier 2,Living with Parents,49000,785,2,10.1,292000,491000,36,Medical,0.333,Approved
+31,Male,Single,2,Graduate,Business Owner,Tier 1,Owned,126000,572,1,5.2,315000,314000,24,Debt Consolidation,0.117,Approved
+24,Female,Married,3,Graduate,Salaried,Tier 2,Owned,33000,648,2,1.2,123000,378000,60,Home Renovation,0.255,Approved
+32,Male,Married,2,Graduate,Business Owner,Tier 3,Owned,34000,661,0,9.1,90000,158000,48,Home Renovation,0.122,Approved
+35,Male,Single,3,Not Graduate,Self-Employed,Tier 2,Rented,105000,671,1,4.3,156000,240000,48,Travel,0.06,Rejected
+35,Female,Married,1,Graduate,Self-Employed,Tier 1,Rented,24000,657,1,6.1,18000,296000,24,Education,0.581,Rejected
+32,Female,Married,1,Graduate,Self-Employed,Tier 3,Owned,42000,698,0,4.2,100000,68000,60,Vehicle,0.036,Approved
+34,Female,Married,0,Graduate,Business Owner,Tier 1,Living with Parents,59000,687,2,6.7,48000,324000,48,Business Expansion,0.145,Approved
+44,Male,Single,1,Graduate,Salaried,Tier 1,Living with Parents,66000,670,2,11.6,163000,394000,180,Education,0.072,Approved
+32,Male,Married,3,Graduate,Business Owner,Tier 3,Living with Parents,24000,664,1,7.3,122000,160000,36,Debt Consolidation,0.221,Rejected
+34,Male,Married,1,Graduate,Business Owner,Tier 1,Owned,82000,623,1,4.2,267000,283000,60,Home Renovation,0.077,Approved
+22,Male,Single,1,Not Graduate,Unemployed,Tier 2,Rented,9000,539,0,0.8,54000,291000,48,Home Renovation,0.851,Rejected
+22,Male,Married,1,Graduate,Salaried,Tier 3,Living with Parents,49000,679,1,0.7,146000,171000,240,Wedding,0.038,Approved
+29,Male,Married,1,Not Graduate,Business Owner,Tier 2,Living with Parents,40000,726,2,3.4,92000,386000,24,Debt Consolidation,0.454,Rejected
+32,Female,Married,1,Not Graduate,Self-Employed,Tier 3,Living with Parents,23000,690,0,8.4,25000,281000,120,Debt Consolidation,0.175,Rejected
+31,Male,Married,2,Graduate,Business Owner,Tier 2,Rented,37000,579,0,3.3,110000,262000,60,Debt Consolidation,0.158,Rejected
+35,Male,Married,3,Not Graduate,Salaried,Tier 3,Living with Parents,70000,702,4,11.1,319000,145000,60,Education,0.046,Approved
+25,Male,Married,1,Graduate,Salaried,Tier 2,Owned,34000,660,1,3.5,116000,112000,24,Medical,0.155,Rejected
+24,Male,Single,1,Graduate,Unemployed,Tier 1,Owned,15000,566,0,1.4,25000,208000,24,Vehicle,0.653,Rejected
+30,Female,Single,0,Graduate,Salaried,Tier 1,Rented,29000,674,1,3.4,25000,312000,36,Education,0.357,Approved
+34,Female,Single,0,Graduate,Salaried,Tier 1,Owned,34000,667,2,7.3,79000,216000,36,Vehicle,0.211,Approved
+44,Male,Married,1,Graduate,Salaried,Tier 3,Living with Parents,40000,744,0,13.2,190000,896000,24,Medical,1.054,Rejected
+38,Male,Married,0,Not Graduate,Salaried,Tier 1,Living with Parents,41000,720,0,7.2,207000,223000,60,Education,0.121,Approved
+25,Female,Single,1,Not Graduate,Unemployed,Tier 2,Owned,10000,646,1,1.4,19000,574000,48,Home Renovation,1.512,Rejected
+31,Male,Married,1,Graduate,Business Owner,Tier 1,Rented,72000,691,1,6.4,138000,98000,60,Home Renovation,0.03,Approved
+38,Female,Single,0,Graduate,Salaried,Tier 1,Owned,66000,680,1,11.3,307000,97000,180,Education,0.018,Approved
+27,Female,Married,3,Graduate,Salaried,Tier 1,Owned,12000,547,0,3.9,16000,170000,24,Vehicle,0.667,Rejected
+38,Female,Married,1,Not Graduate,Unemployed,Tier 2,Rented,8000,637,1,8.4,36000,216000,84,Medical,0.477,Rejected
+38,Male,Married,1,Not Graduate,Business Owner,Tier 2,Living with Parents,127000,674,2,7.6,489000,156000,24,Travel,0.058,Approved
+21,Male,Single,1,Not Graduate,Salaried,Tier 1,Owned,46000,669,1,0.0,129000,299000,36,Home Renovation,0.216,Approved
+21,Female,Married,2,Graduate,Self-Employed,Tier 1,Owned,251000,722,2,0.0,957000,162000,60,Debt Consolidation,0.014,Approved
+47,Male,Married,0,Graduate,Unemployed,Tier 2,Owned,8000,625,0,20.9,25000,188000,84,Travel,0.415,Rejected
+25,Female,Married,1,Graduate,Salaried,Tier 2,Rented,39000,587,2,1.7,85000,159000,180,Home Renovation,0.049,Rejected
+37,Female,Married,1,Graduate,Business Owner,Tier 1,Living with Parents,82000,655,1,13.5,290000,232000,24,Medical,0.133,Approved
+36,Male,Married,1,Graduate,Salaried,Tier 2,Owned,27000,739,2,10.4,14000,206000,60,Debt Consolidation,0.17,Approved
+51,Male,Married,0,Graduate,Self-Employed,Tier 2,Rented,36000,736,3,16.6,125000,396000,12,Wedding,0.977,Rejected
+37,Female,Single,0,Graduate,Salaried,Tier 2,Living with Parents,38000,600,3,13.9,136000,91000,48,Business Expansion,0.063,Approved
+22,Female,Single,1,Graduate,Salaried,Tier 2,Owned,33000,643,0,0.6,158000,224000,180,Travel,0.081,Approved
+26,Female,Married,0,Not Graduate,Self-Employed,Tier 1,Owned,23000,618,3,2.1,16000,216000,60,Wedding,0.209,Rejected
+45,Male,Married,2,Graduate,Salaried,Tier 1,Rented,133000,745,1,11.4,767000,153000,84,Wedding,0.02,Approved
+40,Female,Married,1,Graduate,Salaried,Tier 1,Rented,22000,639,1,14.4,127000,227000,48,Home Renovation,0.272,Rejected
+34,Male,Married,2,Graduate,Salaried,Tier 2,Owned,154000,699,2,10.2,136000,246000,36,Home Renovation,0.053,Approved
+40,Male,Single,2,Graduate,Salaried,Tier 1,Rented,23000,630,3,14.6,82000,85000,60,Debt Consolidation,0.082,Approved
+37,Male,Single,4,Not Graduate,Self-Employed,Tier 2,Rented,95000,782,2,11.2,444000,222000,60,Home Renovation,0.052,Approved
+29,Female,Married,2,Not Graduate,Business Owner,Tier 2,Rented,111000,709,0,5.5,564000,62000,120,Debt Consolidation,0.008,Approved
+35,Female,Married,3,Graduate,Salaried,Tier 2,Owned,23000,667,1,10.7,42000,54000,12,Education,0.209,Rejected
+21,Female,Married,0,Graduate,Business Owner,Tier 1,Owned,272000,669,2,0.0,476000,237000,24,Debt Consolidation,0.041,Approved
+40,Female,Married,0,Graduate,Business Owner,Tier 2,Rented,57000,643,0,16.5,218000,360000,60,Debt Consolidation,0.14,Approved
+28,Female,Married,2,Graduate,Business Owner,Tier 2,Owned,26000,672,0,2.9,132000,470000,36,Vehicle,0.6,Rejected
+31,Male,Single,1,Not Graduate,Unemployed,Tier 1,Rented,27000,615,1,8.2,41000,158000,48,Home Renovation,0.154,Rejected
+31,Female,Single,1,Not Graduate,Salaried,Tier 2,Rented,172000,648,0,4.3,176000,327000,36,Medical,0.063,Approved
+28,Male,Single,1,Not Graduate,Salaried,Tier 3,Living with Parents,62000,661,0,5.4,133000,188000,12,Debt Consolidation,0.269,Approved
+31,Male,Married,0,Graduate,Unemployed,Tier 2,Living with Parents,15000,508,1,5.9,48000,60000,48,Education,0.105,Rejected
+22,Male,Single,5,Graduate,Salaried,Tier 2,Living with Parents,55000,522,1,0.5,314000,217000,36,Home Renovation,0.131,Approved
+36,Female,Married,1,Graduate,Salaried,Tier 1,Rented,33000,560,1,12.7,120000,265000,120,Education,0.115,Rejected
+27,Male,Single,0,Not Graduate,Business Owner,Tier 1,Owned,78000,603,2,2.2,275000,131000,120,Medical,0.024,Rejected
+31,Male,Single,2,Not Graduate,Salaried,Tier 2,Living with Parents,37000,620,1,8.5,35000,216000,12,Debt Consolidation,0.519,Rejected
+35,Male,Single,0,Graduate,Salaried,Tier 2,Rented,53000,677,0,4.9,170000,188000,60,Vehicle,0.079,Approved
+28,Female,Married,2,Graduate,Salaried,Tier 2,Rented,75000,641,1,3.1,305000,267000,36,Vehicle,0.118,Approved
+62,Male,Married,0,Graduate,Salaried,Tier 1,Owned,36000,760,1,20.3,152000,226000,36,Home Renovation,0.209,Approved
+46,Male,Married,1,Graduate,Business Owner,Tier 2,Living with Parents,44000,781,3,11.6,100000,239000,48,Home Renovation,0.143,Approved
+44,Male,Married,1,Graduate,Business Owner,Tier 2,Owned,32000,770,1,20.5,33000,891000,84,Debt Consolidation,0.492,Approved
+38,Male,Married,3,Graduate,Salaried,Tier 3,Owned,43000,673,1,6.0,207000,535000,84,Medical,0.22,Approved
+32,Female,Single,2,Graduate,Unemployed,Tier 2,Owned,11000,526,0,3.7,31000,129000,84,Home Renovation,0.207,Rejected
+34,Male,Married,1,Graduate,Salaried,Tier 2,Owned,60000,671,1,4.7,333000,416000,84,Business Expansion,0.122,Approved
+26,Female,Married,3,Graduate,Self-Employed,Tier 1,Owned,114000,627,0,2.3,412000,357000,84,Business Expansion,0.055,Approved
+45,Female,Married,1,Not Graduate,Salaried,Tier 2,Owned,60000,722,1,16.1,52000,246000,180,Wedding,0.049,Approved
+42,Male,Married,1,Graduate,Self-Employed,Tier 2,Rented,79000,667,0,14.5,92000,324000,48,Medical,0.108,Approved
+31,Female,Married,2,Graduate,Salaried,Tier 2,Owned,60000,766,1,4.0,287000,247000,84,Education,0.073,Approved
+28,Male,Single,1,Not Graduate,Salaried,Tier 3,Owned,11000,608,0,2.4,10000,151000,84,Medical,0.242,Rejected
+41,Male,Single,1,Not Graduate,Salaried,Tier 3,Owned,51000,638,3,6.3,202000,152000,60,Education,0.066,Approved
+41,Male,Married,0,Not Graduate,Unemployed,Tier 3,Owned,9000,585,1,6.6,45000,81000,120,Business Expansion,0.129,Rejected
+51,Male,Married,0,Graduate,Unemployed,Tier 2,Living with Parents,8000,541,2,13.3,30000,211000,180,Vehicle,0.317,Rejected
+21,Male,Single,0,Graduate,Salaried,Tier 3,Rented,25000,609,0,0.0,136000,139000,48,Education,0.146,Rejected
+38,Male,Married,2,Not Graduate,Salaried,Tier 3,Living with Parents,55000,654,3,7.7,275000,183000,180,Travel,0.04,Approved
+31,Male,Married,4,Graduate,Business Owner,Tier 1,Owned,52000,608,1,9.0,123000,243000,60,Medical,0.104,Rejected
+21,Male,Single,1,Graduate,Salaried,Tier 1,Rented,75000,613,2,0.0,143000,224000,240,Home Renovation,0.033,Approved
+32,Female,Married,1,Graduate,Salaried,Tier 3,Owned,30000,648,0,6.4,159000,82000,36,Medical,0.091,Approved
+31,Male,Married,0,Graduate,Salaried,Tier 2,Owned,55000,647,0,4.0,196000,94000,84,Travel,0.03,Approved
+41,Male,Married,1,Graduate,Salaried,Tier 1,Owned,117000,724,2,15.3,558000,133000,180,Education,0.014,Approved
+43,Male,Married,1,Graduate,Business Owner,Tier 3,Rented,15000,694,1,14.1,37000,35000,36,Education,0.078,Approved
+32,Male,Single,2,Graduate,Self-Employed,Tier 2,Living with Parents,33000,710,0,4.9,126000,263000,60,Home Renovation,0.177,Approved
+38,Male,Single,2,Graduate,Salaried,Tier 1,Owned,34000,642,1,7.6,148000,207000,60,Medical,0.135,Approved
+44,Female,Married,1,Graduate,Business Owner,Tier 3,Owned,91000,715,1,9.4,66000,79000,48,Wedding,0.023,Approved
+37,Female,Married,2,Graduate,Business Owner,Tier 3,Living with Parents,49000,636,0,11.2,240000,148000,48,Wedding,0.08,Approved
+35,Male,Married,1,Not Graduate,Self-Employed,Tier 2,Owned,65000,658,2,10.1,45000,324000,84,Education,0.088,Approved
+22,Male,Married,2,Graduate,Self-Employed,Tier 2,Living with Parents,20000,647,0,0.4,26000,264000,84,Debt Consolidation,0.233,Rejected
+35,Male,Married,0,Graduate,Self-Employed,Tier 3,Rented,27000,751,1,12.1,159000,223000,12,Debt Consolidation,0.734,Rejected
+23,Male,Married,1,Not Graduate,Salaried,Tier 2,Owned,78000,630,0,0.8,242000,141000,84,Education,0.032,Approved
+41,Male,Single,2,Graduate,Business Owner,Tier 2,Owned,47000,641,0,16.0,138000,441000,24,Travel,0.442,Rejected
+31,Male,Single,1,Not Graduate,Salaried,Tier 2,Owned,77000,649,2,3.6,385000,401000,240,Home Renovation,0.057,Approved
+21,Male,Married,2,Graduate,Salaried,Tier 2,Owned,33000,529,3,0.0,134000,405000,48,Vehicle,0.323,Rejected
+27,Female,Married,1,Not Graduate,Business Owner,Tier 2,Owned,138000,629,0,4.0,472000,70000,36,Vehicle,0.017,Approved
+21,Male,Single,0,Graduate,Business Owner,Tier 2,Living with Parents,15000,522,2,0.0,32000,143000,60,Home Renovation,0.212,Rejected
+36,Female,Married,1,Graduate,Unemployed,Tier 2,Owned,13000,596,0,9.0,37000,249000,60,Vehicle,0.426,Rejected
+46,Male,Married,1,Not Graduate,Business Owner,Tier 2,Living with Parents,58000,770,2,7.6,167000,227000,48,Education,0.103,Approved
+53,Female,Married,4,Graduate,Salaried,Tier 2,Living with Parents,31000,658,1,20.6,173000,299000,24,Business Expansion,0.454,Approved
+42,Male,Married,0,Graduate,Salaried,Tier 3,Living with Parents,19000,656,0,15.4,70000,91000,24,Wedding,0.225,Approved
+43,Male,Married,1,Not Graduate,Business Owner,Tier 1,Owned,74000,703,1,9.0,406000,266000,60,Debt Consolidation,0.08,Approved
+42,Female,Married,3,Not Graduate,Salaried,Tier 2,Owned,20000,625,3,17.9,103000,120000,240,Vehicle,0.066,Rejected
+32,Male,Married,2,Graduate,Business Owner,Tier 2,Rented,26000,609,4,4.8,120000,709000,36,Education,0.906,Rejected
+21,Female,Married,1,Graduate,Business Owner,Tier 3,Living with Parents,56000,659,0,0.0,60000,282000,60,Wedding,0.112,Approved
+50,Male,Married,1,Graduate,Salaried,Tier 1,Owned,44000,749,1,16.7,196000,128000,36,Home Renovation,0.097,Approved
+39,Male,Married,2,Not Graduate,Salaried,Tier 2,Rented,47000,593,2,10.1,144000,198000,24,Education,0.198,Rejected
+36,Male,Single,1,Graduate,Salaried,Tier 2,Owned,29000,638,1,10.2,149000,112000,36,Vehicle,0.128,Rejected
+44,Male,Single,2,Graduate,Self-Employed,Tier 3,Living with Parents,75000,761,2,10.1,425000,79000,36,Travel,0.035,Approved
+28,Male,Married,5,Not Graduate,Self-Employed,Tier 3,Owned,54000,513,0,5.9,262000,311000,60,Vehicle,0.128,Rejected
+33,Female,Single,4,Graduate,Salaried,Tier 3,Living with Parents,64000,688,2,10.4,234000,553000,36,Education,0.287,Approved
+54,Female,Single,0,Graduate,Unemployed,Tier 1,Owned,8000,722,2,23.1,17000,1117000,84,Education,2.465,Rejected
+45,Female,Single,3,Graduate,Self-Employed,Tier 1,Rented,16000,672,1,13.3,73000,333000,60,Travel,0.463,Rejected
+44,Male,Married,3,Not Graduate,Business Owner,Tier 2,Owned,101000,785,1,16.1,68000,196000,48,Education,0.051,Approved
+48,Male,Married,0,Graduate,Self-Employed,Tier 2,Rented,15000,691,0,14.8,10000,299000,120,Debt Consolidation,0.286,Rejected
+33,Female,Married,2,Not Graduate,Business Owner,Tier 3,Rented,63000,654,1,10.3,92000,347000,24,Business Expansion,0.259,Rejected
+26,Female,Married,2,Graduate,Self-Employed,Tier 1,Living with Parents,65000,624,1,4.3,202000,351000,180,Medical,0.065,Approved
+22,Female,Married,5,Graduate,Self-Employed,Tier 1,Living with Parents,26000,564,0,0.9,84000,140000,48,Travel,0.142,Rejected
+40,Male,Single,2,Not Graduate,Self-Employed,Tier 3,Owned,35000,680,0,16.1,132000,225000,12,Home Renovation,0.571,Rejected
+39,Female,Married,2,Graduate,Business Owner,Tier 1,Rented,72000,661,1,11.5,49000,329000,84,Wedding,0.081,Approved
+32,Male,Married,4,Graduate,Salaried,Tier 3,Rented,72000,625,2,4.1,136000,91000,120,Education,0.018,Approved
+27,Male,Married,0,Graduate,Salaried,Tier 1,Living with Parents,30000,702,0,3.5,46000,110000,60,Debt Consolidation,0.082,Approved
+41,Male,Married,2,Not Graduate,Business Owner,Tier 1,Rented,157000,671,0,11.8,566000,256000,120,Vehicle,0.023,Approved
+36,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Owned,82000,657,0,12.1,68000,226000,24,Wedding,0.13,Approved
+39,Male,Single,2,Graduate,Salaried,Tier 1,Living with Parents,92000,706,0,11.8,545000,234000,12,Vehicle,0.226,Approved
+30,Male,Married,0,Graduate,Business Owner,Tier 3,Rented,19000,541,0,5.2,91000,442000,24,Wedding,1.095,Rejected
+21,Female,Single,0,Not Graduate,Self-Employed,Tier 2,Rented,41000,620,0,0.0,105000,383000,120,Business Expansion,0.134,Rejected
+25,Male,Single,1,Graduate,Salaried,Tier 2,Owned,19000,693,2,2.2,43000,216000,240,Vehicle,0.125,Approved
+30,Female,Single,1,Not Graduate,Salaried,Tier 1,Owned,37000,681,1,4.2,76000,128000,36,Vehicle,0.115,Rejected
+24,Male,Single,2,Graduate,Business Owner,Tier 2,Rented,50000,635,0,1.2,294000,193000,240,Vehicle,0.043,Approved
+37,Male,Married,3,Not Graduate,Salaried,Tier 2,Living with Parents,54000,685,2,11.5,227000,271000,60,Education,0.112,Approved
+21,Male,Married,3,Not Graduate,Unemployed,Tier 2,Rented,8000,548,1,0.0,11000,183000,36,Vehicle,0.76,Rejected
+25,Male,Married,0,Not Graduate,Salaried,Tier 2,Rented,66000,615,0,1.4,34000,273000,60,Education,0.092,Approved
+37,Female,Married,3,Not Graduate,Self-Employed,Tier 1,Rented,45000,572,1,11.6,27000,110000,60,Home Renovation,0.054,Rejected
+27,Male,Single,2,Not Graduate,Salaried,Tier 3,Rented,9000,691,0,1.9,31000,155000,180,Home Renovation,0.207,Rejected
+35,Male,Single,0,Not Graduate,Self-Employed,Tier 1,Owned,73000,559,0,9.6,394000,141000,120,Home Renovation,0.028,Approved
+31,Female,Married,2,Not Graduate,Salaried,Tier 3,Living with Parents,10000,638,2,6.8,19000,239000,24,Wedding,1.125,Rejected
+55,Female,Single,2,Graduate,Salaried,Tier 1,Living with Parents,49000,721,0,12.9,117000,283000,60,Vehicle,0.128,Approved
+33,Female,Married,1,Not Graduate,Business Owner,Tier 2,Living with Parents,65000,649,1,6.6,71000,215000,12,Travel,0.294,Approved
+31,Female,Married,0,Graduate,Self-Employed,Tier 2,Owned,48000,632,0,6.1,63000,90000,240,Travel,0.021,Approved
+39,Male,Married,1,Graduate,Salaried,Tier 2,Rented,39000,718,1,9.5,171000,137000,12,Wedding,0.312,Approved
+32,Male,Married,0,Not Graduate,Self-Employed,Tier 1,Rented,33000,697,0,5.5,111000,260000,48,Debt Consolidation,0.207,Approved
+22,Male,Married,1,Graduate,Salaried,Tier 2,Rented,71000,667,0,0.4,249000,479000,24,Education,0.318,Approved
+25,Female,Married,0,Graduate,Business Owner,Tier 3,Rented,60000,622,1,1.2,255000,126000,48,Wedding,0.055,Approved
+37,Male,Single,2,Graduate,Self-Employed,Tier 3,Rented,57000,630,2,11.7,70000,300000,240,Wedding,0.058,Approved
+28,Female,Married,0,Graduate,Salaried,Tier 2,Rented,112000,612,0,5.6,181000,734000,84,Medical,0.116,Approved
+37,Female,Single,0,Graduate,Salaried,Tier 2,Owned,15000,703,0,8.4,48000,284000,84,Travel,0.334,Approved
+35,Female,Single,3,Graduate,Salaried,Tier 1,Rented,49000,678,2,6.7,282000,171000,60,Business Expansion,0.078,Approved
+34,Female,Married,2,Not Graduate,Salaried,Tier 3,Owned,106000,659,0,4.6,284000,163000,120,Home Renovation,0.022,Approved
+44,Male,Single,1,Graduate,Self-Employed,Tier 2,Rented,76000,711,0,9.7,304000,228000,240,Wedding,0.033,Approved
+25,Male,Married,1,Graduate,Salaried,Tier 1,Rented,58000,609,0,1.7,74000,153000,60,Travel,0.059,Approved
+28,Male,Single,5,Not Graduate,Salaried,Tier 3,Owned,22000,642,1,4.6,115000,320000,36,Medical,0.483,Rejected
+44,Male,Married,1,Not Graduate,Self-Employed,Tier 2,Owned,59000,625,1,15.7,344000,212000,180,Home Renovation,0.043,Approved
+29,Male,Single,4,Graduate,Self-Employed,Tier 1,Rented,83000,569,0,6.3,277000,190000,12,Travel,0.203,Rejected
+36,Male,Single,3,Graduate,Salaried,Tier 1,Rented,61000,769,0,9.4,237000,242000,60,Home Renovation,0.088,Approved
+24,Female,Married,1,Graduate,Salaried,Tier 3,Rented,58000,717,1,2.3,121000,294000,60,Business Expansion,0.113,Approved
+49,Male,Single,1,Graduate,Business Owner,Tier 3,Owned,104000,733,0,21.6,496000,121000,24,Medical,0.055,Approved
+37,Male,Married,1,Not Graduate,Business Owner,Tier 3,Living with Parents,33000,635,0,12.7,91000,134000,120,Wedding,0.058,Approved
+42,Female,Single,3,Graduate,Salaried,Tier 1,Rented,20000,682,0,16.4,74000,262000,24,Business Expansion,0.617,Rejected
+32,Male,Married,0,Graduate,Salaried,Tier 2,Rented,71000,672,1,9.3,112000,301000,36,Travel,0.141,Approved
+37,Male,Single,0,Graduate,Self-Employed,Tier 2,Rented,24000,720,2,14.0,14000,61000,60,Travel,0.057,Approved
+28,Female,Single,2,Not Graduate,Salaried,Tier 3,Rented,9000,557,1,5.2,54000,170000,60,Travel,0.42,Rejected
+40,Male,Single,1,Graduate,Business Owner,Tier 2,Living with Parents,125000,667,0,8.2,405000,363000,36,Debt Consolidation,0.096,Approved
+53,Male,Married,0,Not Graduate,Salaried,Tier 2,Rented,45000,741,0,24.4,167000,243000,12,Travel,0.48,Approved
+30,Female,Married,0,Graduate,Business Owner,Tier 1,Rented,234000,659,1,4.1,429000,158000,48,Medical,0.018,Approved
+39,Female,Married,0,Graduate,Salaried,Tier 3,Rented,32000,714,0,11.3,148000,193000,60,Debt Consolidation,0.134,Approved
+35,Female,Single,2,Graduate,Salaried,Tier 3,Living with Parents,21000,621,1,10.9,103000,248000,36,Home Renovation,0.392,Rejected
+45,Female,Married,1,Graduate,Salaried,Tier 3,Rented,33000,789,1,21.5,169000,216000,24,Wedding,0.308,Approved
+37,Female,Single,1,Not Graduate,Salaried,Tier 3,Owned,18000,642,0,6.8,65000,201000,60,Travel,0.248,Approved
+47,Female,Married,2,Graduate,Salaried,Tier 2,Rented,22000,663,2,11.7,44000,94000,240,Wedding,0.047,Approved
+33,Male,Married,0,Not Graduate,Unemployed,Tier 2,Rented,20000,632,1,3.6,91000,404000,240,Home Renovation,0.222,Rejected
+34,Female,Single,2,Not Graduate,Self-Employed,Tier 1,Rented,44000,649,0,10.6,217000,140000,60,Travel,0.071,Rejected
+24,Female,Married,1,Graduate,Salaried,Tier 1,Rented,31000,576,1,2.0,176000,128000,84,Medical,0.073,Rejected
+28,Male,Married,1,Not Graduate,Business Owner,Tier 1,Owned,39000,653,0,4.5,59000,165000,12,Home Renovation,0.376,Approved
+46,Male,Single,2,Graduate,Salaried,Tier 3,Owned,37000,676,1,9.0,67000,165000,60,Wedding,0.099,Approved
+45,Female,Single,2,Not Graduate,Self-Employed,Tier 3,Owned,9000,698,0,15.4,19000,506000,60,Education,1.251,Rejected
+29,Male,Single,1,Graduate,Business Owner,Tier 2,Living with Parents,72000,632,2,3.4,180000,160000,48,Education,0.059,Approved
+38,Female,Married,1,Not Graduate,Salaried,Tier 3,Rented,25000,659,1,11.2,114000,143000,36,Business Expansion,0.19,Rejected
+28,Male,Married,2,Graduate,Salaried,Tier 2,Rented,27000,591,0,4.6,81000,420000,48,Education,0.41,Rejected
+34,Female,Single,1,Graduate,Salaried,Tier 2,Owned,73000,591,1,4.6,117000,454000,12,Debt Consolidation,0.553,Rejected
+35,Female,Single,1,Not Graduate,Salaried,Tier 1,Rented,35000,674,0,7.0,76000,322000,36,Wedding,0.306,Approved
+38,Male,Married,2,Not Graduate,Unemployed,Tier 3,Living with Parents,8000,633,1,9.2,18000,117000,48,Wedding,0.385,Rejected
+32,Female,Single,3,Not Graduate,Salaried,Tier 2,Rented,69000,656,0,9.6,362000,214000,84,Education,0.055,Approved
+28,Female,Single,0,Graduate,Unemployed,Tier 1,Owned,20000,472,1,5.7,79000,328000,84,Debt Consolidation,0.29,Rejected
+33,Male,Married,0,Graduate,Salaried,Tier 2,Rented,45000,696,0,5.9,129000,438000,60,Home Renovation,0.217,Approved
+32,Male,Single,0,Graduate,Salaried,Tier 1,Owned,20000,671,0,4.3,117000,142000,12,Education,0.631,Approved
+21,Male,Single,1,Not Graduate,Salaried,Tier 2,Rented,26000,625,0,0.0,109000,255000,24,Business Expansion,0.462,Rejected
+35,Female,Married,1,Graduate,Business Owner,Tier 1,Living with Parents,54000,674,2,7.1,64000,488000,180,Debt Consolidation,0.108,Approved
+42,Male,Single,2,Graduate,Salaried,Tier 2,Rented,42000,741,1,9.7,241000,317000,12,Home Renovation,0.671,Approved
+43,Female,Married,0,Graduate,Salaried,Tier 2,Rented,16000,602,1,13.0,66000,672000,60,Business Expansion,0.934,Rejected
+45,Male,Married,1,Not Graduate,Business Owner,Tier 1,Rented,132000,724,1,14.9,110000,197000,60,Business Expansion,0.033,Approved
+23,Female,Married,5,Graduate,Salaried,Tier 1,Owned,66000,509,1,1.0,144000,474000,240,Home Renovation,0.079,Rejected
+50,Male,Married,2,Graduate,Salaried,Tier 3,Owned,22000,728,1,19.1,70000,286000,120,Medical,0.187,Approved
+31,Male,Single,2,Not Graduate,Salaried,Tier 1,Living with Parents,37000,725,0,5.8,26000,162000,180,Debt Consolidation,0.053,Approved
+47,Female,Single,1,Not Graduate,Business Owner,Tier 2,Rented,96000,825,0,12.8,131000,100000,36,Business Expansion,0.035,Approved
+32,Female,Married,0,Not Graduate,Salaried,Tier 1,Owned,44000,738,0,8.6,69000,254000,12,Medical,0.513,Approved
+40,Male,Married,2,Graduate,Salaried,Tier 2,Rented,38000,699,2,10.2,126000,278000,12,Vehicle,0.65,Rejected
+33,Male,Married,0,Graduate,Salaried,Tier 2,Living with Parents,38000,698,0,3.7,190000,156000,60,Medical,0.091,Approved
+49,Female,Married,1,Not Graduate,Salaried,Tier 3,Owned,21000,784,0,20.9,42000,602000,120,Vehicle,0.411,Approved
+40,Male,Single,3,Graduate,Business Owner,Tier 1,Owned,17000,704,2,11.5,15000,428000,60,Travel,0.56,Rejected
+37,Male,Married,2,Graduate,Self-Employed,Tier 2,Rented,22000,682,3,11.1,55000,442000,60,Vehicle,0.447,Rejected
+32,Female,Married,1,Not Graduate,Salaried,Tier 3,Owned,73000,711,1,7.1,243000,829000,36,Medical,0.377,Approved
+40,Female,Married,1,Graduate,Salaried,Tier 2,Rented,38000,626,2,16.9,141000,368000,120,Education,0.139,Rejected
+46,Male,Married,3,Not Graduate,Self-Employed,Tier 3,Owned,46000,651,0,20.2,151000,141000,84,Vehicle,0.054,Approved
+26,Male,Married,1,Graduate,Self-Employed,Tier 1,Owned,14000,565,1,2.1,9000,240000,48,Education,0.451,Rejected
+29,Male,Married,0,Graduate,Salaried,Tier 2,Owned,32000,676,1,3.3,174000,145000,84,Debt Consolidation,0.08,Approved
+39,Male,Single,1,Not Graduate,Unemployed,Tier 1,Rented,16000,623,1,13.0,48000,216000,24,Vehicle,0.635,Rejected
+45,Male,Married,2,Graduate,Unemployed,Tier 1,Rented,9000,660,1,10.2,48000,352000,60,Education,0.87,Rejected
+21,Female,Married,0,Not Graduate,Salaried,Tier 2,Owned,23000,665,1,0.0,44000,230000,240,Medical,0.11,Rejected
+21,Male,Married,1,Not Graduate,Salaried,Tier 2,Owned,56000,582,0,0.0,43000,372000,84,Travel,0.117,Approved
+32,Female,Married,1,Graduate,Salaried,Tier 2,Rented,108000,591,3,5.2,188000,296000,84,Travel,0.048,Approved
+40,Female,Married,1,Graduate,Unemployed,Tier 1,Rented,13000,577,1,8.5,24000,266000,60,Wedding,0.455,Rejected
+39,Male,Married,2,Graduate,Salaried,Tier 2,Rented,104000,700,0,7.0,86000,275000,48,Wedding,0.07,Approved
+54,Male,Single,0,Graduate,Salaried,Tier 1,Rented,44000,802,1,15.6,170000,278000,120,Vehicle,0.091,Approved
+40,Male,Married,1,Graduate,Self-Employed,Tier 2,Owned,49000,708,0,16.7,228000,211000,180,Home Renovation,0.052,Approved
+32,Male,Married,1,Graduate,Salaried,Tier 1,Owned,149000,623,0,9.1,790000,242000,48,Wedding,0.043,Approved
+23,Male,Single,4,Not Graduate,Salaried,Tier 3,Owned,58000,599,1,1.5,78000,472000,60,Business Expansion,0.181,Rejected
+41,Male,Married,1,Graduate,Salaried,Tier 3,Rented,34000,670,1,12.3,78000,339000,36,Vehicle,0.331,Approved
+21,Female,Married,2,Not Graduate,Business Owner,Tier 1,Living with Parents,56000,628,0,0.0,240000,234000,12,Home Renovation,0.371,Approved
+33,Male,Married,1,Graduate,Business Owner,Tier 1,Rented,78000,669,0,5.8,380000,123000,36,Wedding,0.052,Approved
+35,Female,Married,2,Graduate,Salaried,Tier 2,Rented,32000,621,0,7.8,106000,149000,60,Vehicle,0.104,Rejected
+29,Male,Married,0,Graduate,Unemployed,Tier 2,Owned,17000,614,0,6.6,100000,218000,84,Debt Consolidation,0.226,Rejected
+35,Female,Married,2,Not Graduate,Self-Employed,Tier 2,Owned,107000,683,1,5.0,179000,232000,48,Education,0.057,Approved
+41,Male,Single,0,Graduate,Salaried,Tier 2,Rented,33000,660,0,12.0,126000,160000,84,Vehicle,0.086,Approved
+29,Male,Single,1,Graduate,Self-Employed,Tier 1,Owned,63000,647,2,2.9,152000,177000,84,Home Renovation,0.05,Approved
+39,Male,Single,1,Graduate,Self-Employed,Tier 1,Rented,28000,725,2,7.1,156000,512000,60,Business Expansion,0.407,Approved
+32,Male,Single,0,Graduate,Self-Employed,Tier 3,Owned,29000,681,0,8.9,108000,429000,120,Debt Consolidation,0.212,Approved
+38,Female,Married,3,Graduate,Salaried,Tier 2,Rented,19000,659,0,12.4,86000,581000,84,Wedding,0.54,Rejected
+27,Female,Married,0,Not Graduate,Unemployed,Tier 2,Rented,14000,519,0,2.5,79000,95000,180,Debt Consolidation,0.081,Rejected
+29,Female,Single,0,Graduate,Salaried,Tier 1,Living with Parents,95000,628,0,4.3,196000,182000,120,Business Expansion,0.027,Approved
+36,Female,Single,2,Not Graduate,Self-Employed,Tier 2,Rented,113000,756,0,13.4,482000,310000,60,Medical,0.061,Approved
+31,Male,Married,2,Graduate,Salaried,Tier 3,Rented,25000,563,1,4.9,130000,81000,120,Vehicle,0.046,Rejected
+42,Male,Married,1,Graduate,Salaried,Tier 2,Living with Parents,47000,643,1,12.8,185000,396000,24,Education,0.397,Rejected
+40,Male,Married,0,Not Graduate,Salaried,Tier 1,Rented,69000,760,0,9.9,287000,453000,36,Home Renovation,0.218,Approved
+31,Male,Single,2,Graduate,Salaried,Tier 2,Rented,46000,634,4,4.8,133000,351000,60,Debt Consolidation,0.17,Rejected
+27,Female,Married,2,Graduate,Unemployed,Tier 2,Rented,8000,531,0,4.6,28000,262000,120,Wedding,0.47,Rejected
+25,Female,Single,4,Not Graduate,Self-Employed,Tier 2,Rented,41000,596,2,1.9,146000,87000,48,Medical,0.056,Rejected
+34,Male,Single,1,Not Graduate,Self-Employed,Tier 3,Rented,32000,569,0,6.2,191000,193000,48,Medical,0.159,Rejected
+41,Female,Married,5,Graduate,Salaried,Tier 2,Rented,15000,663,1,8.8,32000,118000,48,Vehicle,0.207,Rejected
+47,Male,Single,3,Not Graduate,Business Owner,Tier 1,Owned,110000,759,1,11.2,130000,139000,60,Medical,0.028,Approved
+50,Male,Married,1,Not Graduate,Salaried,Tier 3,Rented,15000,735,1,16.9,25000,309000,84,Debt Consolidation,0.364,Rejected
+47,Female,Married,1,Graduate,Salaried,Tier 2,Rented,30000,567,0,16.5,126000,101000,120,Medical,0.048,Rejected
+48,Male,Single,1,Graduate,Self-Employed,Tier 2,Owned,68000,763,0,13.6,325000,94000,60,Education,0.031,Approved
+46,Male,Single,2,Not Graduate,Self-Employed,Tier 3,Owned,62000,726,0,17.0,76000,290000,48,Business Expansion,0.123,Approved
+21,Female,Single,0,Graduate,Salaried,Tier 3,Owned,16000,539,0,0.0,69000,352000,24,Wedding,1.036,Rejected
+48,Male,Single,1,Graduate,Self-Employed,Tier 3,Owned,38000,663,0,22.1,163000,510000,60,Travel,0.299,Approved
+28,Male,Married,2,Not Graduate,Business Owner,Tier 2,Owned,67000,549,2,5.7,311000,134000,180,Home Renovation,0.024,Rejected
+21,Male,Married,1,Graduate,Self-Employed,Tier 2,Owned,52000,613,0,0.0,199000,40000,12,Home Renovation,0.068,Rejected
+34,Female,Married,2,Graduate,Self-Employed,Tier 1,Owned,106000,694,1,8.3,614000,291000,240,Education,0.03,Approved
+34,Male,Married,1,Graduate,Unemployed,Tier 2,Owned,10000,582,0,7.7,53000,204000,24,Business Expansion,0.96,Rejected
+35,Male,Married,1,Not Graduate,Self-Employed,Tier 1,Living with Parents,67000,633,0,9.7,68000,147000,36,Travel,0.073,Rejected
+32,Male,Single,0,Not Graduate,Business Owner,Tier 2,Rented,44000,604,1,3.3,157000,236000,120,Debt Consolidation,0.077,Approved
+43,Female,Married,1,Not Graduate,Business Owner,Tier 1,Owned,95000,671,1,16.0,106000,320000,48,Medical,0.089,Approved
+31,Female,Married,2,Graduate,Self-Employed,Tier 3,Owned,13000,588,1,7.1,23000,87000,60,Education,0.149,Rejected
+38,Male,Single,2,Graduate,Self-Employed,Tier 1,Owned,103000,761,0,14.5,363000,172000,120,Debt Consolidation,0.024,Approved
+21,Male,Married,0,Not Graduate,Salaried,Tier 1,Rented,31000,673,2,0.0,140000,132000,24,Debt Consolidation,0.2,Approved
+34,Female,Single,4,Graduate,Self-Employed,Tier 1,Living with Parents,150000,640,0,5.7,665000,97000,240,Wedding,0.007,Approved
+26,Male,Married,1,Graduate,Salaried,Tier 2,Owned,62000,707,0,3.5,130000,419000,120,Medical,0.097,Approved
+46,Female,Single,4,Graduate,Salaried,Tier 2,Rented,52000,730,0,15.8,285000,216000,60,Vehicle,0.092,Approved
+31,Male,Married,2,Not Graduate,Self-Employed,Tier 2,Owned,46000,624,0,3.8,38000,99000,180,Debt Consolidation,0.026,Rejected
+45,Female,Married,0,Graduate,Salaried,Tier 1,Living with Parents,33000,686,0,15.1,194000,293000,240,Debt Consolidation,0.098,Approved
+21,Male,Married,0,Graduate,Business Owner,Tier 1,Living with Parents,42000,686,1,0.0,208000,201000,60,Travel,0.106,Approved
+27,Male,Single,2,Not Graduate,Business Owner,Tier 2,Rented,23000,630,2,3.1,80000,83000,60,Debt Consolidation,0.08,Rejected
+22,Female,Single,0,Graduate,Salaried,Tier 1,Owned,29000,629,0,0.7,150000,245000,84,Debt Consolidation,0.149,Approved
+29,Female,Married,0,Not Graduate,Business Owner,Tier 3,Rented,151000,684,1,6.6,619000,813000,48,Home Renovation,0.142,Approved
+30,Male,Married,2,Not Graduate,Salaried,Tier 2,Owned,44000,727,0,3.6,239000,241000,180,Debt Consolidation,0.066,Approved
+30,Male,Single,1,Not Graduate,Salaried,Tier 3,Living with Parents,56000,729,1,6.0,130000,220000,24,Education,0.185,Approved
+35,Male,Single,1,Graduate,Salaried,Tier 1,Owned,58000,589,0,8.3,321000,94000,24,Wedding,0.076,Approved
+26,Female,Married,0,Graduate,Salaried,Tier 3,Rented,45000,615,0,1.5,162000,271000,84,Debt Consolidation,0.106,Approved
+23,Female,Married,0,Not Graduate,Salaried,Tier 2,Rented,105000,653,2,1.6,304000,177000,12,Business Expansion,0.15,Rejected
+34,Male,Married,0,Not Graduate,Business Owner,Tier 3,Owned,12000,600,1,9.6,8000,100000,120,Debt Consolidation,0.12,Rejected
+35,Male,Single,1,Graduate,Self-Employed,Tier 2,Living with Parents,35000,669,0,7.7,192000,237000,36,Medical,0.225,Approved
+51,Female,Single,2,Graduate,Salaried,Tier 3,Owned,18000,655,0,13.2,103000,401000,24,Travel,1.049,Rejected
+34,Male,Married,0,Not Graduate,Salaried,Tier 2,Rented,29000,679,0,9.2,61000,117000,84,Wedding,0.071,Approved
+28,Female,Married,2,Graduate,Salaried,Tier 3,Rented,30000,668,1,2.8,31000,109000,36,Debt Consolidation,0.121,Approved
+22,Female,Single,3,Graduate,Salaried,Tier 1,Rented,51000,581,1,0.5,225000,258000,240,Wedding,0.056,Rejected
+32,Male,Married,0,Not Graduate,Salaried,Tier 1,Owned,12000,601,1,6.4,8000,167000,24,Business Expansion,0.655,Rejected
+24,Male,Single,2,Graduate,Salaried,Tier 1,Rented,36000,704,0,1.0,42000,382000,240,Business Expansion,0.117,Approved
+44,Female,Single,0,Graduate,Business Owner,Tier 2,Rented,33000,654,3,10.7,82000,422000,12,Business Expansion,1.136,Rejected
+27,Male,Single,1,Graduate,Unemployed,Tier 2,Rented,8000,623,1,4.6,27000,211000,36,Business Expansion,0.876,Rejected
+38,Male,Single,1,Graduate,Salaried,Tier 2,Rented,67000,566,0,13.0,395000,393000,12,Travel,0.521,Rejected
+32,Female,Single,0,Not Graduate,Salaried,Tier 1,Rented,69000,594,0,8.5,355000,164000,48,Home Renovation,0.063,Rejected
+35,Female,Single,3,Graduate,Self-Employed,Tier 2,Rented,60000,724,1,11.9,198000,109000,60,Home Renovation,0.04,Approved
+30,Female,Married,1,Graduate,Salaried,Tier 1,Rented,24000,659,0,4.3,23000,226000,84,Debt Consolidation,0.166,Approved
+46,Female,Married,1,Graduate,Self-Employed,Tier 3,Living with Parents,45000,762,0,16.4,263000,277000,84,Travel,0.109,Approved
+30,Male,Married,2,Graduate,Salaried,Tier 2,Rented,15000,692,1,4.3,32000,392000,24,Debt Consolidation,1.23,Rejected
+21,Male,Married,3,Graduate,Self-Employed,Tier 2,Rented,25000,585,1,0.0,34000,180000,84,Debt Consolidation,0.127,Rejected
+23,Male,Married,0,Graduate,Unemployed,Tier 2,Rented,12000,564,1,1.4,44000,216000,48,Home Renovation,0.474,Rejected
+43,Male,Single,0,Graduate,Salaried,Tier 2,Living with Parents,84000,680,3,6.8,285000,186000,24,Education,0.104,Approved
+44,Female,Married,2,Graduate,Unemployed,Tier 3,Owned,8000,620,1,12.9,6000,168000,84,Home Renovation,0.371,Rejected
+33,Male,Married,4,Not Graduate,Salaried,Tier 3,Rented,65000,694,2,9.2,273000,135000,60,Home Renovation,0.046,Approved
+26,Female,Married,2,Graduate,Salaried,Tier 3,Living with Parents,53000,653,2,3.0,53000,212000,84,Vehicle,0.071,Approved
+38,Male,Married,0,Not Graduate,Salaried,Tier 3,Rented,20000,707,2,13.1,98000,176000,60,Debt Consolidation,0.196,Rejected
+40,Female,Single,1,Graduate,Self-Employed,Tier 2,Rented,36000,695,1,11.9,130000,255000,36,Travel,0.235,Approved
+33,Female,Single,1,Graduate,Unemployed,Tier 3,Owned,8000,676,1,4.7,23000,429000,60,Business Expansion,1.193,Rejected
+30,Male,Single,0,Graduate,Salaried,Tier 2,Owned,26000,649,1,6.3,96000,282000,84,Vehicle,0.191,Rejected
+36,Male,Married,1,Not Graduate,Self-Employed,Tier 3,Owned,30000,665,1,12.8,168000,305000,12,Education,0.903,Rejected
+41,Female,Married,1,Not Graduate,Salaried,Tier 2,Owned,55000,672,0,9.9,155000,276000,120,Medical,0.072,Approved
+28,Male,Married,0,Not Graduate,Salaried,Tier 2,Living with Parents,31000,663,2,5.4,44000,184000,120,Education,0.085,Rejected
+34,Male,Married,3,Not Graduate,Salaried,Tier 2,Owned,57000,614,2,8.7,332000,100000,240,Vehicle,0.019,Approved
+48,Male,Married,4,Graduate,Self-Employed,Tier 2,Living with Parents,50000,684,0,11.0,123000,178000,36,Business Expansion,0.118,Approved
+51,Female,Single,2,Graduate,Self-Employed,Tier 2,Owned,66000,667,1,22.3,141000,208000,24,Medical,0.148,Approved
+26,Male,Single,1,Graduate,Salaried,Tier 2,Rented,13000,540,0,4.2,64000,301000,24,Business Expansion,1.09,Rejected
+29,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Rented,26000,580,0,2.7,54000,590000,12,Home Renovation,2.016,Rejected
+21,Male,Single,1,Graduate,Salaried,Tier 3,Rented,14000,580,0,0.0,52000,177000,84,Travel,0.223,Rejected
+21,Male,Married,0,Graduate,Business Owner,Tier 1,Rented,84000,627,0,0.0,261000,162000,84,Home Renovation,0.034,Approved
+23,Male,Married,3,Graduate,Business Owner,Tier 2,Rented,70000,572,1,1.4,200000,298000,60,Debt Consolidation,0.095,Rejected
+30,Female,Single,0,Graduate,Self-Employed,Tier 1,Owned,74000,684,0,4.8,203000,170000,36,Business Expansion,0.076,Approved
+51,Male,Married,1,Graduate,Salaried,Tier 2,Owned,38000,745,0,11.0,163000,162000,24,Education,0.201,Approved
+42,Male,Married,1,Not Graduate,Unemployed,Tier 1,Owned,8000,623,0,17.7,36000,174000,180,Education,0.261,Rejected
+43,Female,Married,1,Graduate,Salaried,Tier 2,Living with Parents,45000,697,2,18.9,118000,218000,48,Wedding,0.128,Approved
+42,Female,Married,2,Not Graduate,Salaried,Tier 2,Owned,47000,791,2,7.2,184000,471000,60,Medical,0.223,Approved
+29,Male,Married,2,Graduate,Salaried,Tier 2,Rented,13000,678,2,2.5,76000,268000,180,Medical,0.247,Approved
+21,Male,Married,0,Not Graduate,Salaried,Tier 2,Rented,32000,659,1,0.0,126000,127000,36,Home Renovation,0.132,Rejected
+34,Female,Single,0,Not Graduate,Salaried,Tier 1,Rented,27000,667,0,7.3,76000,134000,60,Home Renovation,0.11,Approved
+29,Male,Single,1,Graduate,Salaried,Tier 2,Living with Parents,31000,681,2,4.6,123000,198000,120,Medical,0.092,Approved
+38,Male,Married,1,Not Graduate,Salaried,Tier 2,Owned,44000,698,0,11.8,162000,1091000,48,Business Expansion,0.653,Approved
+29,Male,Single,2,Graduate,Unemployed,Tier 1,Rented,13000,694,2,5.3,30000,70000,180,Education,0.065,Rejected
+25,Male,Married,0,Not Graduate,Salaried,Tier 1,Rented,78000,607,0,1.4,339000,415000,48,Medical,0.14,Rejected
+31,Male,Single,0,Graduate,Salaried,Tier 2,Owned,77000,658,2,6.9,139000,178000,60,Debt Consolidation,0.051,Approved
+45,Male,Married,1,Not Graduate,Salaried,Tier 3,Owned,16000,781,2,20.3,90000,469000,24,Home Renovation,1.38,Rejected
+25,Female,Married,1,Not Graduate,Salaried,Tier 2,Owned,43000,680,1,1.3,126000,268000,240,Vehicle,0.069,Approved
+21,Female,Single,2,Not Graduate,Salaried,Tier 2,Owned,20000,626,3,0.0,97000,187000,12,Vehicle,0.831,Rejected
+43,Male,Single,1,Not Graduate,Self-Employed,Tier 3,Living with Parents,52000,654,1,7.1,305000,114000,48,Travel,0.058,Approved
+36,Female,Single,1,Graduate,Business Owner,Tier 2,Rented,58000,680,3,7.7,183000,202000,60,Home Renovation,0.077,Approved
+36,Male,Single,2,Not Graduate,Unemployed,Tier 2,Owned,10000,573,1,6.7,10000,212000,240,Business Expansion,0.233,Rejected
+35,Male,Single,1,Graduate,Salaried,Tier 3,Owned,26000,627,0,9.8,54000,210000,240,Education,0.089,Approved
+39,Female,Married,2,Graduate,Self-Employed,Tier 1,Rented,129000,760,2,12.4,737000,170000,120,Home Renovation,0.019,Approved
+29,Female,Married,1,Graduate,Salaried,Tier 1,Rented,41000,645,0,3.6,32000,271000,36,Vehicle,0.22,Rejected
+49,Female,Single,2,Not Graduate,Salaried,Tier 1,Owned,94000,773,0,17.1,236000,262000,36,Home Renovation,0.093,Approved
+42,Female,Married,2,Graduate,Unemployed,Tier 1,Owned,9000,623,1,14.6,47000,164000,120,Wedding,0.261,Rejected
+27,Male,Married,1,Not Graduate,Self-Employed,Tier 2,Owned,102000,711,0,2.6,577000,149000,48,Wedding,0.038,Approved
+25,Female,Single,0,Not Graduate,Salaried,Tier 2,Owned,42000,655,0,2.3,212000,65000,24,Wedding,0.073,Rejected
+34,Female,Married,1,Graduate,Business Owner,Tier 1,Rented,100000,707,0,6.5,461000,313000,36,Vehicle,0.104,Approved
+26,Female,Single,1,Graduate,Business Owner,Tier 1,Living with Parents,115000,695,0,1.6,435000,542000,240,Vehicle,0.052,Approved
+37,Female,Married,3,Not Graduate,Salaried,Tier 2,Rented,24000,697,1,5.6,114000,461000,60,Education,0.427,Approved
+41,Male,Single,1,Graduate,Salaried,Tier 1,Owned,48000,799,0,16.9,38000,134000,120,Wedding,0.04,Approved
+39,Female,Married,3,Not Graduate,Salaried,Tier 2,Owned,40000,679,1,15.4,71000,480000,48,Business Expansion,0.316,Rejected
+21,Male,Married,1,Graduate,Salaried,Tier 3,Owned,34000,668,1,0.0,155000,123000,48,Wedding,0.095,Approved
+37,Male,Single,1,Graduate,Salaried,Tier 1,Rented,29000,659,1,10.9,106000,233000,240,Debt Consolidation,0.088,Approved
+33,Male,Married,1,Graduate,Salaried,Tier 1,Rented,78000,648,1,5.9,95000,404000,60,Travel,0.115,Approved
+30,Male,Married,0,Not Graduate,Salaried,Tier 1,Living with Parents,32000,590,2,6.9,40000,270000,240,Business Expansion,0.093,Rejected
+41,Female,Single,0,Not Graduate,Self-Employed,Tier 1,Living with Parents,59000,619,1,8.7,214000,126000,240,Medical,0.024,Approved
+41,Male,Single,0,Graduate,Salaried,Tier 2,Rented,26000,642,0,15.1,72000,613000,60,Education,0.524,Approved
+37,Female,Married,2,Graduate,Self-Employed,Tier 2,Rented,14000,611,0,7.2,51000,252000,180,Vehicle,0.216,Rejected
+35,Male,Married,1,Graduate,Salaried,Tier 2,Rented,49000,607,1,12.3,278000,110000,120,Debt Consolidation,0.032,Approved
+56,Male,Married,2,Graduate,Salaried,Tier 2,Owned,29000,733,0,15.3,161000,128000,12,Business Expansion,0.392,Approved
+30,Female,Married,1,Not Graduate,Salaried,Tier 3,Rented,17000,592,0,7.4,30000,426000,48,Business Expansion,0.66,Rejected
+52,Female,Single,0,Graduate,Business Owner,Tier 1,Owned,38000,648,2,19.5,86000,71000,12,Travel,0.166,Approved
+34,Male,Single,2,Graduate,Self-Employed,Tier 3,Living with Parents,42000,644,0,10.4,31000,403000,60,Vehicle,0.213,Approved
+34,Female,Single,0,Graduate,Salaried,Tier 2,Rented,86000,771,0,6.0,294000,146000,36,Home Renovation,0.056,Approved
+29,Male,Single,1,Not Graduate,Salaried,Tier 2,Rented,47000,716,4,4.5,132000,278000,24,Vehicle,0.278,Rejected
+29,Male,Married,0,Graduate,Salaried,Tier 2,Rented,61000,703,1,4.4,40000,240000,60,Education,0.088,Approved
+31,Female,Married,2,Not Graduate,Self-Employed,Tier 1,Rented,39000,668,0,4.9,64000,322000,24,Medical,0.389,Rejected
+32,Female,Single,1,Not Graduate,Salaried,Tier 1,Rented,29000,648,2,5.1,96000,181000,48,Vehicle,0.164,Rejected
+34,Male,Married,1,Graduate,Salaried,Tier 1,Owned,54000,754,1,4.3,95000,161000,60,Wedding,0.066,Approved
+41,Male,Married,1,Graduate,Salaried,Tier 3,Living with Parents,25000,792,1,16.0,62000,367000,12,Business Expansion,1.304,Rejected
+29,Male,Married,2,Graduate,Salaried,Tier 3,Rented,48000,723,0,4.9,191000,330000,24,Education,0.324,Approved
+50,Male,Married,3,Not Graduate,Salaried,Tier 2,Rented,76000,678,0,21.7,176000,220000,36,Home Renovation,0.096,Approved
+31,Male,Married,1,Graduate,Salaried,Tier 3,Living with Parents,18000,612,1,7.7,82000,466000,36,Medical,0.86,Rejected
+31,Female,Married,0,Not Graduate,Self-Employed,Tier 2,Rented,53000,707,3,3.2,273000,251000,120,Medical,0.068,Approved
+43,Female,Single,1,Graduate,Self-Employed,Tier 2,Rented,51000,675,1,9.0,261000,167000,180,Business Expansion,0.039,Approved
+43,Male,Married,2,Graduate,Salaried,Tier 1,Living with Parents,24000,725,0,12.8,114000,290000,240,Business Expansion,0.133,Approved
+39,Male,Married,2,Not Graduate,Unemployed,Tier 1,Owned,19000,588,1,9.2,11000,216000,60,Wedding,0.253,Rejected
+40,Female,Married,2,Not Graduate,Business Owner,Tier 3,Living with Parents,39000,632,2,7.5,146000,297000,24,Travel,0.358,Rejected
+28,Female,Single,2,Not Graduate,Salaried,Tier 3,Owned,44000,579,0,4.9,47000,426000,240,Home Renovation,0.107,Approved
+24,Male,Married,2,Graduate,Self-Employed,Tier 1,Owned,157000,657,0,1.7,720000,227000,60,Medical,0.032,Approved
+54,Female,Married,0,Graduate,Salaried,Tier 2,Owned,39000,718,1,26.9,111000,133000,60,Vehicle,0.076,Approved
+31,Male,Single,2,Not Graduate,Business Owner,Tier 2,Owned,99000,723,0,8.9,591000,90000,120,Home Renovation,0.013,Approved
+36,Female,Single,2,Not Graduate,Salaried,Tier 3,Owned,38000,717,0,7.1,145000,214000,12,Debt Consolidation,0.5,Approved
+29,Female,Single,2,Graduate,Salaried,Tier 2,Owned,34000,798,0,3.5,106000,272000,24,Medical,0.377,Approved
+44,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Owned,45000,631,1,11.6,51000,261000,120,Education,0.083,Rejected
+40,Female,Married,2,Graduate,Salaried,Tier 3,Living with Parents,47000,692,1,14.1,239000,192000,60,Education,0.091,Approved
+28,Male,Single,3,Graduate,Salaried,Tier 3,Rented,45000,712,0,2.8,129000,593000,60,Business Expansion,0.293,Approved
+21,Male,Married,0,Not Graduate,Self-Employed,Tier 2,Living with Parents,46000,609,1,0.0,42000,145000,84,Medical,0.056,Approved
+39,Female,Married,4,Graduate,Salaried,Tier 1,Owned,74000,726,0,15.4,51000,96000,24,Education,0.061,Approved
+34,Male,Married,4,Graduate,Salaried,Tier 2,Owned,40000,686,0,7.4,98000,201000,24,Education,0.237,Approved
+28,Male,Married,2,Not Graduate,Salaried,Tier 1,Owned,18000,751,2,2.6,67000,118000,48,Business Expansion,0.173,Approved
+29,Male,Single,2,Not Graduate,Salaried,Tier 2,Rented,69000,564,0,6.0,246000,297000,12,Education,0.382,Rejected
+36,Female,Single,2,Graduate,Business Owner,Tier 2,Rented,33000,575,0,5.7,28000,110000,60,Travel,0.074,Rejected
+36,Female,Married,2,Graduate,Salaried,Tier 2,Living with Parents,18000,643,2,12.4,108000,348000,24,Travel,0.91,Rejected
+29,Male,Married,2,Graduate,Salaried,Tier 2,Rented,22000,622,0,6.0,56000,172000,60,Vehicle,0.174,Rejected
+35,Female,Single,0,Graduate,Business Owner,Tier 1,Rented,55000,621,1,4.5,106000,188000,36,Business Expansion,0.114,Rejected
+42,Male,Married,1,Not Graduate,Business Owner,Tier 3,Owned,38000,691,1,13.2,52000,516000,120,Debt Consolidation,0.195,Approved
+45,Female,Married,3,Graduate,Salaried,Tier 2,Living with Parents,63000,691,3,16.5,51000,113000,48,Wedding,0.047,Approved
+24,Male,Single,1,Not Graduate,Self-Employed,Tier 2,Rented,14000,579,1,1.4,55000,234000,36,Vehicle,0.555,Rejected
+33,Male,Married,1,Not Graduate,Salaried,Tier 3,Rented,31000,614,1,5.6,113000,136000,180,Travel,0.053,Approved
+27,Male,Single,2,Graduate,Salaried,Tier 3,Owned,21000,711,0,3.4,99000,260000,24,Debt Consolidation,0.583,Rejected
+38,Female,Married,2,Graduate,Unemployed,Tier 3,Owned,8000,631,1,6.5,29000,328000,60,Medical,0.912,Rejected
+50,Male,Married,3,Graduate,Salaried,Tier 3,Rented,45000,729,0,14.7,69000,192000,12,Debt Consolidation,0.379,Approved
+33,Female,Married,1,Graduate,Self-Employed,Tier 3,Owned,134000,660,1,10.7,461000,258000,180,Travel,0.023,Approved
+34,Male,Single,2,Graduate,Self-Employed,Tier 3,Owned,45000,627,0,6.8,48000,516000,180,Travel,0.138,Rejected
+21,Male,Married,1,Not Graduate,Salaried,Tier 1,Owned,48000,660,1,0.0,286000,137000,12,Debt Consolidation,0.254,Approved
+44,Male,Married,1,Graduate,Self-Employed,Tier 3,Owned,32000,683,0,18.9,34000,202000,84,Education,0.111,Rejected
+41,Male,Married,4,Graduate,Business Owner,Tier 3,Rented,77000,706,2,7.2,403000,106000,60,Education,0.031,Approved
+53,Female,Single,1,Graduate,Salaried,Tier 2,Rented,33000,646,1,16.4,154000,162000,36,Vehicle,0.163,Approved
+49,Male,Single,3,Graduate,Salaried,Tier 1,Rented,65000,648,0,16.1,341000,281000,60,Wedding,0.096,Approved
+38,Female,Married,2,Graduate,Salaried,Tier 1,Owned,43000,672,2,13.8,72000,266000,240,Education,0.068,Approved
+37,Male,Married,2,Not Graduate,Business Owner,Tier 1,Living with Parents,118000,712,1,11.0,141000,350000,84,Debt Consolidation,0.052,Approved
+33,Male,Married,0,Graduate,Unemployed,Tier 3,Owned,8000,583,1,3.7,35000,104000,36,Vehicle,0.432,Rejected
+31,Male,Single,2,Graduate,Unemployed,Tier 3,Owned,8000,588,0,4.4,18000,177000,24,Education,1.042,Rejected
+27,Male,Single,1,Graduate,Self-Employed,Tier 1,Owned,31000,642,0,2.6,18000,212000,48,Debt Consolidation,0.18,Approved
+29,Male,Married,2,Not Graduate,Self-Employed,Tier 2,Owned,24000,618,2,4.1,120000,652000,60,Wedding,0.604,Rejected
+52,Female,Single,2,Not Graduate,Salaried,Tier 2,Rented,32000,714,1,25.1,145000,433000,36,Business Expansion,0.449,Approved
+29,Female,Married,2,Not Graduate,Self-Employed,Tier 2,Owned,83000,614,0,4.1,356000,422000,48,Travel,0.134,Approved
+24,Female,Married,1,Not Graduate,Unemployed,Tier 3,Rented,9000,530,0,2.2,40000,138000,60,Travel,0.341,Rejected
+36,Female,Married,1,Not Graduate,Salaried,Tier 2,Living with Parents,44000,687,0,10.6,64000,220000,240,Medical,0.055,Approved
+29,Male,Married,0,Graduate,Business Owner,Tier 2,Owned,88000,641,1,4.5,59000,546000,48,Debt Consolidation,0.163,Approved
+44,Female,Single,0,Not Graduate,Salaried,Tier 2,Owned,74000,718,2,16.7,87000,248000,120,Medical,0.048,Approved
+46,Female,Married,2,Not Graduate,Salaried,Tier 1,Rented,36000,695,1,22.2,112000,467000,60,Wedding,0.289,Approved
+45,Male,Single,0,Graduate,Salaried,Tier 2,Owned,71000,746,3,9.0,231000,315000,36,Medical,0.147,Approved
+43,Male,Married,3,Graduate,Salaried,Tier 1,Rented,91000,688,3,19.1,120000,144000,84,Wedding,0.028,Approved
+34,Male,Married,3,Graduate,Business Owner,Tier 2,Owned,62000,615,1,7.5,140000,91000,120,Wedding,0.021,Approved
+32,Male,Married,0,Graduate,Business Owner,Tier 2,Living with Parents,32000,595,0,7.6,125000,135000,36,Business Expansion,0.14,Rejected
+38,Male,Married,2,Graduate,Self-Employed,Tier 3,Living with Parents,62000,764,2,10.5,249000,367000,240,Education,0.065,Approved
+32,Male,Single,1,Graduate,Business Owner,Tier 2,Rented,55000,660,0,7.9,186000,314000,48,Medical,0.15,Approved
+34,Male,Married,0,Not Graduate,Unemployed,Tier 1,Rented,8000,564,1,5.0,40000,446000,48,Vehicle,1.468,Rejected
+34,Female,Married,4,Not Graduate,Salaried,Tier 2,Rented,85000,673,3,11.3,200000,227000,84,Home Renovation,0.047,Approved
+39,Male,Single,0,Not Graduate,Business Owner,Tier 2,Owned,106000,723,0,13.1,319000,313000,84,Vehicle,0.052,Approved
+43,Male,Married,2,Graduate,Business Owner,Tier 1,Living with Parents,92000,687,0,15.3,427000,209000,84,Travel,0.04,Approved
+43,Male,Married,2,Not Graduate,Salaried,Tier 1,Rented,31000,722,0,14.1,141000,78000,12,Education,0.224,Approved
+36,Male,Single,1,Graduate,Salaried,Tier 2,Owned,31000,728,1,8.2,171000,322000,48,Vehicle,0.274,Approved
+32,Male,Married,0,Graduate,Business Owner,Tier 2,Rented,56000,711,1,7.4,174000,236000,24,Education,0.198,Approved
+42,Male,Married,0,Not Graduate,Business Owner,Tier 1,Owned,22000,656,1,17.7,42000,364000,84,Medical,0.292,Approved
+35,Female,Married,0,Graduate,Self-Employed,Tier 1,Owned,55000,677,0,7.9,209000,450000,120,Travel,0.117,Approved
+24,Male,Single,1,Not Graduate,Salaried,Tier 2,Owned,15000,558,0,1.9,54000,315000,12,Business Expansion,1.866,Rejected
+51,Female,Married,1,Not Graduate,Business Owner,Tier 2,Rented,60000,697,1,9.3,101000,159000,60,Business Expansion,0.059,Approved
+24,Female,Married,0,Not Graduate,Salaried,Tier 2,Rented,53000,690,3,2.1,130000,85000,84,Medical,0.028,Approved
+34,Male,Single,0,Graduate,Unemployed,Tier 1,Rented,11000,660,0,8.0,57000,471000,60,Education,0.952,Rejected
+27,Female,Married,0,Not Graduate,Business Owner,Tier 1,Living with Parents,157000,745,0,4.6,732000,460000,84,Education,0.052,Approved
+29,Male,Single,0,Not Graduate,Salaried,Tier 1,Rented,47000,588,0,5.5,239000,168000,60,Home Renovation,0.08,Approved
+48,Male,Married,0,Graduate,Salaried,Tier 1,Owned,29000,700,1,19.6,40000,246000,12,Business Expansion,0.754,Approved
+21,Male,Single,1,Graduate,Self-Employed,Tier 2,Owned,146000,612,1,0.0,510000,155000,12,Vehicle,0.094,Approved
+31,Male,Married,4,Graduate,Salaried,Tier 3,Owned,44000,664,0,5.3,54000,211000,12,Vehicle,0.426,Approved
+35,Male,Single,0,Graduate,Self-Employed,Tier 3,Living with Parents,32000,623,5,6.4,114000,344000,120,Debt Consolidation,0.154,Rejected
+37,Male,Married,1,Graduate,Salaried,Tier 2,Rented,34000,647,1,12.4,106000,389000,48,Wedding,0.301,Approved
+34,Male,Single,2,Not Graduate,Self-Employed,Tier 3,Owned,31000,663,0,6.3,77000,533000,48,Wedding,0.453,Approved
+41,Male,Single,3,Graduate,Business Owner,Tier 1,Owned,82000,716,0,15.5,419000,219000,36,Debt Consolidation,0.089,Approved
+48,Male,Single,0,Graduate,Business Owner,Tier 2,Living with Parents,55000,766,0,11.1,171000,123000,48,Wedding,0.059,Approved
+32,Male,Married,3,Graduate,Self-Employed,Tier 2,Owned,62000,609,0,6.1,340000,300000,180,Business Expansion,0.058,Rejected
+42,Female,Married,2,Graduate,Self-Employed,Tier 2,Rented,38000,654,1,7.1,145000,109000,12,Debt Consolidation,0.255,Rejected
+46,Female,Married,2,Graduate,Salaried,Tier 2,Owned,56000,662,1,7.9,224000,174000,12,Travel,0.276,Approved
+49,Male,Married,1,Not Graduate,Salaried,Tier 2,Rented,70000,760,2,10.8,199000,212000,60,Medical,0.067,Approved
+35,Male,Single,1,Not Graduate,Self-Employed,Tier 1,Rented,24000,615,0,6.0,134000,173000,24,Medical,0.339,Rejected
+28,Female,Single,2,Graduate,Self-Employed,Tier 3,Rented,28000,730,1,6.2,71000,389000,120,Debt Consolidation,0.199,Approved
+24,Male,Married,2,Not Graduate,Salaried,Tier 1,Rented,83000,686,0,1.3,292000,188000,180,Home Renovation,0.027,Approved
+24,Female,Single,2,Graduate,Self-Employed,Tier 1,Rented,38000,649,3,2.5,148000,163000,120,Medical,0.062,Approved
+24,Male,Married,0,Graduate,Unemployed,Tier 1,Rented,13000,629,1,1.0,61000,249000,120,Medical,0.275,Rejected
+38,Male,Single,1,Not Graduate,Salaried,Tier 2,Rented,33000,537,1,6.0,31000,383000,36,Debt Consolidation,0.385,Rejected
+42,Male,Single,1,Graduate,Salaried,Tier 1,Rented,70000,710,1,18.5,243000,219000,24,Home Renovation,0.147,Approved
+42,Female,Married,1,Graduate,Salaried,Tier 2,Rented,30000,697,1,12.5,100000,137000,36,Travel,0.152,Approved
+34,Female,Married,1,Not Graduate,Self-Employed,Tier 2,Rented,35000,746,2,9.8,195000,111000,180,Medical,0.038,Approved
+28,Male,Single,2,Graduate,Self-Employed,Tier 1,Rented,88000,613,1,5.2,315000,178000,48,Debt Consolidation,0.053,Approved
+30,Female,Married,0,Graduate,Unemployed,Tier 2,Owned,11000,670,0,3.5,26000,89000,12,Education,0.719,Rejected
+26,Male,Single,4,Not Graduate,Self-Employed,Tier 3,Owned,26000,582,2,3.3,142000,105000,240,Education,0.044,Rejected
+27,Male,Married,2,Graduate,Salaried,Tier 2,Rented,69000,665,0,2.4,76000,443000,48,Vehicle,0.169,Approved
+29,Female,Married,0,Graduate,Business Owner,Tier 1,Rented,64000,606,1,3.3,75000,179000,120,Medical,0.04,Approved
+39,Male,Single,3,Graduate,Salaried,Tier 2,Rented,48000,733,1,6.4,101000,374000,84,Vehicle,0.138,Approved
+33,Female,Single,2,Graduate,Unemployed,Tier 1,Owned,18000,601,0,9.2,21000,233000,36,Education,0.43,Rejected
+35,Female,Single,0,Graduate,Salaried,Tier 1,Rented,59000,625,1,8.3,274000,302000,36,Education,0.17,Approved
+26,Female,Married,3,Not Graduate,Salaried,Tier 1,Living with Parents,143000,641,0,4.1,328000,384000,60,Medical,0.06,Approved
+53,Male,Married,1,Not Graduate,Salaried,Tier 2,Living with Parents,35000,789,1,16.3,48000,370000,48,Vehicle,0.278,Approved
+46,Male,Married,3,Graduate,Unemployed,Tier 1,Owned,32000,595,1,9.7,71000,156000,60,Vehicle,0.108,Rejected
+44,Male,Married,1,Not Graduate,Salaried,Tier 3,Rented,95000,754,1,11.6,158000,165000,180,Business Expansion,0.021,Approved
+23,Male,Married,1,Not Graduate,Salaried,Tier 2,Owned,48000,690,4,0.7,214000,274000,60,Home Renovation,0.127,Approved
+46,Male,Married,1,Not Graduate,Business Owner,Tier 1,Living with Parents,89000,775,2,21.0,335000,354000,24,Vehicle,0.187,Approved
+46,Male,Married,0,Not Graduate,Self-Employed,Tier 2,Owned,50000,717,1,20.3,64000,171000,120,Debt Consolidation,0.049,Approved
+30,Female,Married,0,Graduate,Self-Employed,Tier 2,Rented,38000,637,0,5.9,150000,252000,240,Home Renovation,0.073,Approved
+26,Female,Single,1,Graduate,Self-Employed,Tier 2,Owned,23000,558,0,1.5,88000,294000,36,Medical,0.425,Rejected
+31,Female,Married,1,Graduate,Business Owner,Tier 1,Living with Parents,73000,692,2,8.7,335000,152000,60,Home Renovation,0.046,Approved
+37,Female,Married,2,Not Graduate,Salaried,Tier 1,Rented,43000,738,0,5.0,217000,147000,60,Home Renovation,0.076,Approved
+23,Male,Married,1,Graduate,Salaried,Tier 2,Rented,122000,655,2,1.0,66000,173000,60,Medical,0.032,Approved
+44,Female,Married,0,Graduate,Self-Employed,Tier 2,Rented,14000,669,1,16.0,8000,234000,60,Debt Consolidation,0.372,Rejected
+45,Male,Married,2,Graduate,Business Owner,Tier 1,Living with Parents,57000,694,1,12.3,70000,98000,36,Medical,0.057,Approved
+50,Female,Married,1,Not Graduate,Salaried,Tier 1,Owned,26000,707,0,12.3,28000,356000,48,Home Renovation,0.361,Approved
+24,Female,Married,4,Not Graduate,Self-Employed,Tier 3,Owned,46000,600,0,2.2,24000,141000,48,Business Expansion,0.081,Approved
+44,Male,Married,0,Graduate,Unemployed,Tier 3,Living with Parents,23000,674,1,12.0,116000,125000,84,Debt Consolidation,0.096,Rejected
+34,Female,Single,2,Not Graduate,Business Owner,Tier 2,Owned,89000,649,2,5.4,522000,621000,240,Home Renovation,0.077,Approved
+31,Male,Married,0,Graduate,Self-Employed,Tier 1,Living with Parents,64000,690,1,7.7,169000,414000,24,Wedding,0.305,Approved
+25,Male,Married,2,Graduate,Salaried,Tier 1,Owned,45000,596,1,2.5,143000,409000,84,Medical,0.16,Approved
+48,Female,Married,0,Graduate,Self-Employed,Tier 2,Owned,35000,712,1,15.0,139000,177000,60,Vehicle,0.112,Approved
+26,Female,Single,0,Not Graduate,Salaried,Tier 1,Rented,91000,805,2,3.2,512000,205000,48,Home Renovation,0.059,Approved
+34,Male,Married,1,Graduate,Self-Employed,Tier 2,Rented,11000,699,2,8.4,51000,160000,180,Education,0.175,Rejected
+39,Male,Married,1,Graduate,Salaried,Tier 1,Owned,102000,714,1,12.8,289000,351000,24,Education,0.162,Approved
+35,Female,Single,0,Graduate,Self-Employed,Tier 1,Rented,80000,610,2,5.6,205000,187000,12,Vehicle,0.208,Rejected
+41,Female,Married,0,Graduate,Salaried,Tier 1,Rented,58000,676,1,9.4,34000,106000,120,Wedding,0.026,Approved
+32,Female,Married,2,Graduate,Unemployed,Tier 1,Owned,28000,577,1,8.4,94000,422000,36,Business Expansion,0.501,Rejected
+23,Male,Single,2,Graduate,Salaried,Tier 2,Living with Parents,22000,560,4,1.4,81000,217000,120,Vehicle,0.142,Rejected
+27,Female,Single,3,Graduate,Self-Employed,Tier 1,Rented,43000,626,0,2.2,103000,274000,84,Wedding,0.112,Rejected
+39,Female,Single,3,Not Graduate,Self-Employed,Tier 2,Owned,50000,779,1,14.5,113000,356000,180,Vehicle,0.085,Approved
+37,Male,Single,1,Graduate,Business Owner,Tier 3,Rented,37000,661,4,12.2,83000,230000,180,Debt Consolidation,0.075,Rejected
+40,Male,Married,0,Graduate,Unemployed,Tier 1,Rented,12000,678,1,10.3,13000,609000,36,Home Renovation,1.686,Rejected
+25,Male,Married,0,Not Graduate,Salaried,Tier 1,Rented,30000,701,1,1.3,51000,94000,48,Education,0.083,Approved
+27,Male,Married,1,Not Graduate,Business Owner,Tier 3,Rented,24000,693,1,3.2,139000,641000,60,Travel,0.594,Rejected
+34,Male,Single,5,Graduate,Salaried,Tier 3,Living with Parents,37000,619,0,6.3,105000,211000,12,Medical,0.507,Rejected
+41,Male,Single,0,Not Graduate,Self-Employed,Tier 2,Rented,22000,720,1,13.6,90000,166000,36,Wedding,0.251,Rejected
+39,Male,Single,0,Graduate,Self-Employed,Tier 1,Rented,67000,672,2,12.2,54000,239000,240,Medical,0.039,Approved
+28,Female,Married,1,Not Graduate,Salaried,Tier 1,Living with Parents,39000,630,3,5.0,232000,156000,36,Medical,0.133,Rejected
+45,Female,Married,1,Graduate,Salaried,Tier 2,Rented,42000,697,0,14.0,124000,475000,60,Business Expansion,0.252,Approved
+32,Female,Single,1,Graduate,Business Owner,Tier 3,Rented,55000,655,0,3.8,233000,148000,84,Business Expansion,0.048,Approved
+40,Male,Married,2,Graduate,Unemployed,Tier 1,Owned,14000,610,1,6.1,16000,666000,120,Wedding,0.683,Rejected
+40,Male,Single,1,Graduate,Business Owner,Tier 2,Rented,89000,648,1,8.2,241000,579000,60,Travel,0.145,Approved
+28,Male,Married,2,Graduate,Salaried,Tier 2,Rented,22000,612,0,2.8,38000,180000,60,Debt Consolidation,0.182,Approved
+33,Male,Single,0,Not Graduate,Salaried,Tier 1,Owned,47000,683,3,10.1,259000,218000,60,Business Expansion,0.103,Approved
+26,Female,Single,0,Not Graduate,Self-Employed,Tier 2,Rented,33000,633,1,3.0,68000,349000,24,Debt Consolidation,0.498,Rejected
+34,Male,Single,0,Graduate,Unemployed,Tier 2,Living with Parents,13000,599,0,5.9,45000,173000,48,Vehicle,0.35,Rejected
+37,Male,Single,2,Graduate,Salaried,Tier 2,Rented,46000,678,0,9.9,194000,101000,36,Debt Consolidation,0.073,Approved
+28,Male,Married,2,Graduate,Unemployed,Tier 3,Rented,8000,516,3,2.8,7000,231000,60,Education,0.642,Rejected
+27,Male,Married,1,Not Graduate,Salaried,Tier 2,Rented,53000,716,0,5.1,145000,135000,60,Vehicle,0.057,Approved
+36,Male,Single,4,Not Graduate,Self-Employed,Tier 3,Owned,30000,644,1,9.1,138000,537000,60,Medical,0.398,Rejected
+27,Male,Single,0,Not Graduate,Self-Employed,Tier 1,Rented,41000,666,1,4.7,203000,334000,24,Vehicle,0.383,Rejected
+43,Male,Married,1,Graduate,Business Owner,Tier 1,Rented,34000,746,1,15.6,204000,93000,180,Debt Consolidation,0.033,Approved
+21,Female,Married,1,Graduate,Salaried,Tier 2,Living with Parents,24000,569,1,0.0,108000,215000,60,Debt Consolidation,0.199,Rejected
+29,Female,Single,0,Not Graduate,Self-Employed,Tier 3,Rented,26000,596,0,2.8,70000,167000,120,Debt Consolidation,0.092,Rejected
+30,Male,Married,0,Not Graduate,Salaried,Tier 3,Rented,23000,639,2,7.2,125000,283000,60,Medical,0.274,Rejected
+40,Female,Single,0,Graduate,Salaried,Tier 2,Rented,43000,685,1,10.0,155000,162000,24,Education,0.177,Approved
+45,Female,Single,1,Not Graduate,Business Owner,Tier 2,Living with Parents,23000,680,0,10.4,91000,100000,24,Education,0.205,Rejected
+35,Female,Married,1,Not Graduate,Salaried,Tier 2,Rented,102000,697,0,12.1,168000,113000,36,Home Renovation,0.037,Approved
+47,Female,Married,0,Graduate,Business Owner,Tier 2,Owned,112000,751,0,16.7,653000,178000,36,Education,0.053,Approved
+40,Male,Single,0,Not Graduate,Salaried,Tier 1,Owned,99000,740,1,11.4,366000,477000,240,Medical,0.053,Approved
+35,Female,Single,0,Graduate,Salaried,Tier 2,Owned,52000,654,1,7.0,296000,168000,60,Wedding,0.072,Approved
+35,Male,Married,2,Not Graduate,Salaried,Tier 1,Rented,27000,684,0,8.8,91000,347000,36,Business Expansion,0.427,Rejected
+36,Male,Married,2,Graduate,Salaried,Tier 3,Living with Parents,29000,712,0,11.9,43000,110000,48,Business Expansion,0.1,Approved
+21,Male,Single,3,Graduate,Salaried,Tier 2,Rented,40000,601,0,0.0,161000,65000,180,Vehicle,0.02,Rejected
+31,Male,Single,1,Not Graduate,Business Owner,Tier 1,Owned,51000,744,0,7.1,165000,262000,48,Travel,0.135,Approved
+30,Female,Single,4,Graduate,Business Owner,Tier 2,Owned,119000,694,0,4.8,177000,427000,36,Wedding,0.119,Approved
+37,Male,Married,0,Graduate,Business Owner,Tier 3,Living with Parents,16000,679,4,10.5,67000,189000,36,Debt Consolidation,0.392,Rejected
+39,Male,Married,2,Not Graduate,Salaried,Tier 1,Owned,46000,719,2,9.9,203000,455000,24,Vehicle,0.466,Approved
+49,Male,Married,2,Graduate,Salaried,Tier 3,Rented,46000,705,1,23.3,127000,194000,60,Education,0.094,Approved
+45,Female,Married,1,Graduate,Salaried,Tier 3,Rented,20000,769,1,16.7,43000,137000,36,Travel,0.228,Approved
+46,Male,Single,1,Not Graduate,Business Owner,Tier 2,Owned,16000,816,1,18.2,84000,490000,120,Home Renovation,0.439,Approved
+30,Male,Single,1,Graduate,Unemployed,Tier 1,Rented,16000,567,1,4.5,63000,274000,180,Education,0.206,Rejected
+32,Male,Married,1,Not Graduate,Salaried,Tier 3,Rented,38000,754,0,7.4,176000,237000,24,Vehicle,0.294,Approved
+30,Male,Single,0,Graduate,Unemployed,Tier 2,Living with Parents,17000,554,4,5.7,81000,517000,24,Home Renovation,1.432,Rejected
+23,Male,Single,1,Graduate,Salaried,Tier 3,Rented,26000,692,0,0.8,85000,73000,24,Wedding,0.132,Approved
+27,Female,Single,1,Graduate,Self-Employed,Tier 1,Rented,40000,684,0,4.4,172000,309000,180,Wedding,0.093,Approved
+28,Male,Single,0,Graduate,Unemployed,Tier 3,Rented,8000,532,2,3.0,5000,126000,48,Business Expansion,0.415,Rejected
+42,Female,Married,0,Graduate,Salaried,Tier 3,Rented,31000,699,1,14.8,113000,128000,24,Debt Consolidation,0.194,Approved
+50,Female,Single,0,Not Graduate,Business Owner,Tier 3,Owned,39000,719,0,23.9,93000,90000,60,Debt Consolidation,0.051,Approved
+38,Female,Single,3,Not Graduate,Self-Employed,Tier 2,Owned,29000,679,0,12.4,18000,142000,60,Travel,0.109,Approved
+23,Male,Married,0,Graduate,Self-Employed,Tier 1,Rented,46000,671,0,1.2,159000,259000,60,Education,0.125,Rejected
+35,Male,Single,0,Graduate,Self-Employed,Tier 2,Owned,90000,599,2,4.5,206000,193000,180,Debt Consolidation,0.026,Approved
+30,Female,Married,0,Not Graduate,Business Owner,Tier 2,Living with Parents,58000,658,1,3.4,184000,201000,180,Vehicle,0.042,Approved
+37,Male,Married,0,Graduate,Salaried,Tier 2,Rented,39000,668,1,10.9,160000,97000,24,Debt Consolidation,0.117,Approved
+42,Female,Single,0,Graduate,Salaried,Tier 3,Rented,8000,655,2,12.0,40000,282000,12,Wedding,3.132,Rejected
+41,Female,Married,1,Not Graduate,Salaried,Tier 3,Owned,28000,627,0,8.2,89000,288000,84,Home Renovation,0.182,Approved
+34,Male,Single,2,Graduate,Business Owner,Tier 3,Owned,24000,640,0,7.9,57000,157000,48,Debt Consolidation,0.172,Approved
+39,Male,Single,1,Not Graduate,Business Owner,Tier 2,Rented,82000,754,0,13.2,356000,108000,36,Debt Consolidation,0.044,Approved
+28,Male,Single,2,Not Graduate,Unemployed,Tier 1,Owned,14000,530,0,6.0,83000,237000,60,Home Renovation,0.377,Rejected
+31,Male,Single,1,Graduate,Salaried,Tier 2,Living with Parents,186000,771,0,5.0,705000,223000,12,Vehicle,0.107,Approved
+24,Male,Single,1,Graduate,Self-Employed,Tier 1,Rented,56000,663,1,2.5,287000,233000,180,Travel,0.05,Approved
+24,Male,Single,1,Graduate,Salaried,Tier 2,Rented,31000,634,3,1.9,36000,117000,60,Business Expansion,0.084,Rejected
+21,Male,Married,1,Graduate,Self-Employed,Tier 1,Living with Parents,59000,654,0,0.0,346000,206000,120,Business Expansion,0.05,Approved
+24,Female,Single,0,Graduate,Business Owner,Tier 2,Living with Parents,34000,699,1,1.6,74000,121000,84,Travel,0.063,Approved
+47,Female,Single,1,Graduate,Salaried,Tier 1,Rented,30000,703,1,13.1,150000,639000,240,Medical,0.235,Approved
+54,Male,Married,2,Not Graduate,Business Owner,Tier 3,Living with Parents,34000,678,2,9.9,170000,192000,36,Medical,0.188,Rejected
+36,Male,Married,1,Graduate,Salaried,Tier 2,Living with Parents,93000,611,3,8.3,336000,228000,120,Debt Consolidation,0.035,Approved
+56,Male,Married,0,Graduate,Self-Employed,Tier 1,Rented,43000,645,4,14.8,72000,232000,12,Debt Consolidation,0.479,Rejected
+39,Male,Married,3,Not Graduate,Unemployed,Tier 2,Owned,9000,624,3,9.6,7000,146000,48,Travel,0.427,Rejected
+47,Male,Single,3,Not Graduate,Salaried,Tier 3,Owned,136000,711,1,20.5,172000,256000,36,Wedding,0.063,Approved
+41,Male,Married,0,Graduate,Salaried,Tier 2,Owned,56000,725,0,16.0,247000,166000,36,Business Expansion,0.098,Approved
+35,Male,Married,2,Not Graduate,Salaried,Tier 3,Rented,35000,720,1,6.0,141000,319000,48,Medical,0.24,Approved
+33,Male,Single,1,Not Graduate,Unemployed,Tier 2,Owned,10000,671,1,3.7,54000,297000,84,Education,0.524,Rejected
+45,Female,Married,0,Not Graduate,Business Owner,Tier 1,Owned,67000,770,0,16.4,357000,270000,36,Business Expansion,0.134,Approved
+30,Male,Married,0,Not Graduate,Salaried,Tier 3,Owned,59000,741,1,6.0,37000,113000,48,Business Expansion,0.05,Approved
+34,Male,Single,2,Not Graduate,Salaried,Tier 1,Owned,62000,698,0,5.8,178000,223000,36,Medical,0.119,Approved
+32,Female,Single,0,Graduate,Business Owner,Tier 3,Owned,46000,624,0,8.7,134000,298000,180,Education,0.078,Approved
+21,Male,Married,1,Not Graduate,Salaried,Tier 1,Rented,71000,619,1,0.0,155000,76000,240,Medical,0.012,Approved
+37,Male,Married,1,Graduate,Unemployed,Tier 2,Rented,14000,640,0,13.5,59000,507000,48,Debt Consolidation,0.954,Rejected
+27,Male,Single,2,Not Graduate,Salaried,Tier 1,Owned,72000,653,0,2.9,276000,386000,120,Travel,0.077,Approved
+40,Female,Married,0,Graduate,Salaried,Tier 2,Owned,39000,646,2,13.4,61000,199000,240,Business Expansion,0.056,Approved
+21,Female,Single,3,Not Graduate,Salaried,Tier 1,Living with Parents,64000,585,1,0.0,341000,280000,36,Debt Consolidation,0.145,Rejected
+45,Male,Single,2,Graduate,Business Owner,Tier 2,Living with Parents,68000,646,2,10.4,59000,244000,120,Debt Consolidation,0.051,Approved
+28,Male,Single,3,Not Graduate,Salaried,Tier 1,Rented,60000,620,1,6.2,337000,218000,24,Debt Consolidation,0.171,Rejected
+24,Male,Married,0,Graduate,Salaried,Tier 2,Rented,42000,620,0,1.1,247000,331000,36,Medical,0.262,Rejected
+22,Male,Married,0,Graduate,Salaried,Tier 2,Living with Parents,17000,630,1,0.6,75000,237000,36,Debt Consolidation,0.463,Rejected
+32,Male,Single,0,Graduate,Self-Employed,Tier 2,Owned,46000,687,0,8.3,24000,348000,240,Business Expansion,0.083,Approved
+45,Female,Single,0,Not Graduate,Self-Employed,Tier 2,Owned,44000,779,2,9.4,68000,454000,36,Medical,0.343,Approved
+49,Female,Married,0,Not Graduate,Salaried,Tier 1,Owned,50000,697,0,14.2,92000,255000,60,Home Renovation,0.113,Approved
+28,Female,Single,1,Graduate,Salaried,Tier 2,Living with Parents,108000,683,1,5.4,564000,494000,36,Travel,0.152,Approved
+21,Male,Single,1,Not Graduate,Salaried,Tier 1,Owned,27000,525,1,0.0,44000,180000,12,Wedding,0.592,Rejected
+32,Female,Single,1,Not Graduate,Salaried,Tier 1,Owned,34000,608,2,4.4,140000,154000,36,Wedding,0.15,Rejected
+47,Female,Married,2,Graduate,Self-Employed,Tier 2,Living with Parents,21000,694,0,9.5,114000,149000,84,Medical,0.125,Approved
+35,Female,Married,2,Graduate,Salaried,Tier 3,Rented,12000,674,1,6.9,61000,188000,84,Home Renovation,0.277,Approved
+30,Female,Married,4,Graduate,Self-Employed,Tier 2,Living with Parents,46000,634,0,6.4,49000,1277000,120,Home Renovation,0.398,Approved
+45,Male,Single,0,Not Graduate,Unemployed,Tier 3,Living with Parents,8000,550,0,10.3,9000,174000,60,Travel,0.484,Rejected
+44,Female,Married,2,Graduate,Self-Employed,Tier 3,Living with Parents,65000,768,2,11.0,112000,184000,48,Education,0.075,Approved
+30,Male,Married,1,Not Graduate,Unemployed,Tier 2,Owned,8000,565,0,3.9,9000,390000,120,Wedding,0.699,Rejected
+39,Female,Married,2,Graduate,Business Owner,Tier 2,Living with Parents,116000,740,1,12.8,557000,495000,120,Medical,0.061,Approved
+24,Male,Single,0,Not Graduate,Self-Employed,Tier 2,Owned,33000,647,2,1.6,169000,271000,36,Wedding,0.273,Rejected

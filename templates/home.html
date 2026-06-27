@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Credit Risk Loan Approval Predictor</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',sans-serif;background:linear-gradient(135deg,#0f2027 0%,#203a43 50%,#2c5364 100%);min-height:100vh;display:flex;align-items:center;justify-content:center;padding:2rem 1rem}
+.card{max-width:640px;width:100%;background:#fff;border-radius:20px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.25)}
+.card-header{background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);padding:2rem;text-align:center;color:#fff}
+.card-header .badge{background:rgba(255,255,255,0.15);border-radius:20px;padding:6px 14px;font-size:12px;display:inline-block;margin-bottom:12px;letter-spacing:0.5px}
+.card-header h1{font-size:22px;font-weight:700;margin-bottom:6px}
+.card-header p{font-size:13px;opacity:0.85}
+.card-body{padding:2rem}
+.section-label{font-size:11px;font-weight:700;color:#1f6f78;letter-spacing:1px;text-transform:uppercase;margin:1.5rem 0 1rem;display:flex;align-items:center;gap:8px}
+.section-label::after{content:'';flex:1;height:1px;background:#f0f0f0}
+label{display:block;font-size:13px;font-weight:600;color:#374151;margin-bottom:6px}
+select,input[type=number],input[type=text]{width:100%;padding:10px 14px;font-size:14px;border:2px solid #f0f0f0;border-radius:10px;background:#fafafa;color:#1f2937;height:44px;transition:all 0.2s}
+select:focus,input:focus{outline:none;border-color:#2c5364;background:#fff;box-shadow:0 0 0 4px rgba(44,83,100,0.1)}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.grid-3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px}
+.form-group{margin-bottom:14px}
+.score-input{position:relative}
+.score-input input{padding-right:48px}
+.score-input .unit{position:absolute;right:14px;top:50%;transform:translateY(-50%);font-size:12px;color:#9ca3af;font-weight:600}
+.btn-predict{width:100%;background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);color:#fff;border:none;border-radius:12px;padding:14px;font-size:15px;font-weight:600;margin-top:1.5rem;cursor:pointer;letter-spacing:0.3px}
+.btn-predict:hover{opacity:0.92}
+.result-box{margin-top:1.5rem;border-radius:14px;padding:1.25rem 1.5rem;display:flex;align-items:center;gap:16px;border:2px solid}
+.result-box.approved{background:linear-gradient(135deg,#f0fdf4,#dcfce7);border-color:#86efac}
+.result-box.rejected{background:linear-gradient(135deg,#fef2f2,#fee2e2);border-color:#fca5a5}
+.result-icon{width:48px;height:48px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0}
+.result-box.approved .result-icon{background:linear-gradient(135deg,#22c55e,#16a34a)}
+.result-box.rejected .result-icon{background:linear-gradient(135deg,#ef4444,#b91c1c)}
+.result-label{font-size:12px;font-weight:600;letter-spacing:0.5px;text-transform:uppercase;margin-bottom:4px}
+.result-box.approved .result-label{color:#16a34a}
+.result-box.rejected .result-label{color:#b91c1c}
+.result-score{font-size:24px;font-weight:700}
+.result-box.approved .result-score{color:#15803d}
+.result-box.rejected .result-score{color:#991b1b}
+.result-conf{font-size:13px;font-weight:500;color:#6b7280;margin-top:2px}
+.chip{display:inline-block;background:#e6f4f1;color:#0f6f6f;border-radius:6px;padding:3px 8px;font-size:11px;font-weight:600;margin-left:6px}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="card-header">
+    <div class="badge">💳 ML Prediction App</div>
+    <h1>Credit Risk Loan Approval</h1>
+    <p>Fill in the applicant details below to predict loan approval</p>
+  </div>
+
+  <div class="card-body">
+    <form action="{{ url_for('predict_datapoint') }}" method="post">
+      <div class="section-label">Applicant profile</div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Age</label>
+          <input type="number" name="age" min="21" max="65" placeholder="e.g. 32" required>
+        </div>
+        <div class="form-group">
+          <label>Gender</label>
+          <select name="gender" required>
+            <option value="" disabled selected>Select gender</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Marital status</label>
+          <select name="marital_status" required>
+            <option value="" disabled selected>Select</option>
+            <option value="Single">Single</option>
+            <option value="Married">Married</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Dependents</label>
+          <input type="number" name="dependents" min="0" max="10" placeholder="e.g. 1" required>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Education</label>
+          <select name="education" required>
+            <option value="" disabled selected>Select</option>
+            <option value="Graduate">Graduate</option>
+            <option value="Not Graduate">Not Graduate</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Employment type</label>
+          <select name="employment_type" required>
+            <option value="" disabled selected>Select</option>
+            <option value="Salaried">Salaried</option>
+            <option value="Self-Employed">Self-Employed</option>
+            <option value="Business Owner">Business Owner</option>
+            <option value="Unemployed">Unemployed</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>City tier</label>
+          <select name="city_tier" required>
+            <option value="" disabled selected>Select</option>
+            <option value="Tier 1">Tier 1</option>
+            <option value="Tier 2">Tier 2</option>
+            <option value="Tier 3">Tier 3</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label>Residence type</label>
+          <select name="residence_type" required>
+            <option value="" disabled selected>Select</option>
+            <option value="Owned">Owned</option>
+            <option value="Rented">Rented</option>
+            <option value="Living with Parents">Living with Parents</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="section-label">Financial details <span class="chip">₹ INR</span></div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Monthly income</label>
+          <input type="number" name="monthly_income" min="0" placeholder="e.g. 55000" required>
+        </div>
+        <div class="form-group">
+          <label>Bank balance</label>
+          <input type="number" name="bank_balance" min="0" placeholder="e.g. 120000" required>
+        </div>
+      </div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>CIBIL score</label>
+          <div class="score-input">
+            <input type="number" name="cibil_score" min="300" max="900" placeholder="e.g. 740" required>
+            <span class="unit">/ 900</span>
+          </div>
+        </div>
+        <div class="form-group">
+          <label>Existing loans count</label>
+          <input type="number" name="existing_loans_count" min="0" max="10" placeholder="e.g. 1" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Credit history length (years)</label>
+        <input type="number" step="0.1" name="credit_history_length_years" min="0" max="40" placeholder="e.g. 6.5" required>
+      </div>
+
+      <div class="section-label">Loan request</div>
+
+      <div class="grid-2">
+        <div class="form-group">
+          <label>Loan amount requested</label>
+          <input type="number" name="loan_amount" min="0" placeholder="e.g. 300000" required>
+        </div>
+        <div class="form-group">
+          <label>Loan term (months)</label>
+          <select name="loan_term_months" required>
+            <option value="" disabled selected>Select</option>
+            <option value="12">12</option>
+            <option value="24">24</option>
+            <option value="36">36</option>
+            <option value="48">48</option>
+            <option value="60">60</option>
+            <option value="84">84</option>
+            <option value="120">120</option>
+            <option value="180">180</option>
+            <option value="240">240</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Loan purpose</label>
+        <select name="loan_purpose" required>
+          <option value="" disabled selected>Select</option>
+          <option value="Home Renovation">Home Renovation</option>
+          <option value="Education">Education</option>
+          <option value="Medical">Medical</option>
+          <option value="Wedding">Wedding</option>
+          <option value="Vehicle">Vehicle</option>
+          <option value="Business Expansion">Business Expansion</option>
+          <option value="Debt Consolidation">Debt Consolidation</option>
+          <option value="Travel">Travel</option>
+        </select>
+      </div>
+
+      <button type="submit" class="btn-predict">🎯 &nbsp; Predict loan decision</button>
+    </form>
+
+    {% if results %}
+    <div class="result-box {{ 'approved' if results == 'Approved' else 'rejected' }}">
+      <div class="result-icon">{{ '✅' if results == 'Approved' else '⛔' }}</div>
+      <div>
+        <div class="result-label">Loan decision</div>
+        <div class="result-score">{{ results }}</div>
+        <div class="result-conf">Model confidence: {{ confidence }}%</div>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>
+</body>
+</html>

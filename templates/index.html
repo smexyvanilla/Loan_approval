@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Credit Risk Loan Approval Predictor</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',sans-serif;background:linear-gradient(135deg,#0f2027 0%,#203a43 50%,#2c5364 100%);min-height:100vh;display:flex;align-items:center;justify-content:center;padding:2rem 1rem}
+.card{max-width:480px;width:100%;background:#fff;border-radius:20px;overflow:hidden;box-shadow:0 20px 60px rgba(0,0,0,0.25);text-align:center}
+.card-header{background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);padding:2.5rem 2rem;color:#fff}
+.card-header .badge{background:rgba(255,255,255,0.15);border-radius:20px;padding:6px 14px;font-size:12px;display:inline-block;margin-bottom:14px;letter-spacing:0.5px}
+.card-header h1{font-size:24px;font-weight:700;margin-bottom:8px}
+.card-header p{font-size:13px;opacity:0.85;line-height:1.5}
+.card-body{padding:2rem}
+.btn-go{display:inline-block;background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);color:#fff;border:none;border-radius:12px;padding:14px 28px;font-size:15px;font-weight:600;cursor:pointer;letter-spacing:0.3px;text-decoration:none}
+.btn-go:hover{opacity:0.92}
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="card-header">
+    <div class="badge">💳 ML Prediction App</div>
+    <h1>Credit Risk Loan Approval</h1>
+    <p>Predict whether a loan application should be approved or rejected based on the applicant's financial and credit profile.</p>
+  </div>
+  <div class="card-body">
+    <a class="btn-go" href="{{ url_for('predict_datapoint') }}">Get started →</a>
+  </div>
+</div>
+</body>
+</html>
